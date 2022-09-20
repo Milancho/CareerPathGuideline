@@ -1,10 +1,7 @@
-Career Path Guideline
-=================
+# Career Path Guideline
 Software Engineering
 
-Table of contents
-=================
-
+# Table of contents
 <!--ts-->   
    * [Developer Seniority Levels](#developer-seniority-levels)
    * [Performance Competencies](#performance-competencies)
@@ -12,17 +9,13 @@ Table of contents
    * [Learning Path](#learning-path)      
 <!--te-->
 
-Developer Seniority Levels
-==========================
+## Developer Seniority Levels
+![Developer Seniority Levels](Images/1.png)
+## Performance Competencies
+### Description and competency indicators
 
-Performance Competencies
-========================
+## Learning Path
 
-Description and competency indicators
--------------------------------------
-
-Learning Path
-=============
 
 0. UML
    - [Unified Modeling Language](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
