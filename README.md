@@ -10,7 +10,8 @@ Software Engineering
 <!--te-->
 
 ## Developer Seniority Levels
-![Developer Seniority Levels](Images/1.png)
+* [Software Engineer Qualification Levels](https://www.altexsoft.com/blog/business/software-engineer-qualification-levels-junior-middle-and-senior/)
+
 ## Performance Competencies
 ### Description and competency indicators
 
