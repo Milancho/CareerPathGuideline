@@ -49,6 +49,7 @@
 
 10. Security
 
+11. [𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗲𝗱 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗿𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀 𝗳𝗼𝗿 𝗖# 𝗮𝗻𝗱 .𝗡𝗘𝗧](https://www.linkedin.com/posts/milanmilanovic_csharp-net-learning-activity-6975336095915872256-4etq/?utm_source=share&utm_medium=member_desktop)
 11. [Free. Cross-platform. Open source.](https://learn.microsoft.com/en-gb/training/dotnet/?WT.mc_id=dotnet-35129-website)
 11. [ASP.NET Core Application Architecture](https://dotnet.microsoft.com/en-us/learn/aspnet/architecture)
 12. [NET Microservices Architecture Guidance](https://dotnet.microsoft.com/en-us/learn/aspnet/microservices-architecture)
