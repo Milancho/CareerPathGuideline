@@ -67,3 +67,4 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 13. [ASP.NET Core Application Architecture](https://dotnet.microsoft.com/en-us/learn/aspnet/architecture)
 14. [NET Microservices Architecture Guidance](https://dotnet.microsoft.com/en-us/learn/aspnet/microservices-architecture)
 15. [DevOps for .NET Apps](https://dotnet.microsoft.com/en-us/learn/aspnet/devops)
+16. [Kanban](https://app.pluralsight.com/library/courses/kanban-getting-started/table-of-contents)
