@@ -43,7 +43,7 @@
    - [Ionic - Build iOS, Android & Web Apps with Ionic & Angular](https://www.udemy.com/course/ionic-2-the-practical-guide-to-building-ios-android-apps/learn/lecture/13726172?start=0#overview)
 
 8. Azure, AWS, Firebase
-   - [Azure Developer] (https://learn.microsoft.com/en-us/certifications/roles/developer)
+   - [Azure Developer](https://learn.microsoft.com/en-us/certifications/roles/developer)
 
 9. QA
 
