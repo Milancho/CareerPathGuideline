@@ -9,6 +9,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
    * [Learning Path](#learning-path)  
      * [Recommended learning resources](#recommended-learning-resources)
      * [Things every Web Developer should know](#things-every-web-developer-should-know)
+     * [Programming Puzzles](#programming-puzzles)
 <!--te-->
 
 ## Developer Seniority Levels
@@ -109,3 +110,8 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 - Deployment
 - DevOps basics
 
+### Programming Puzzles
+- https://adventofcode.com/
+- https://www.hackerrank.com/
+- https://leetcode.com/
+- https://www.algoexpert.io/
