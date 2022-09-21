@@ -6,7 +6,9 @@ Software development happens in your head. Not in an editor, IDE, or design tool
    * [Developer Seniority Levels](#developer-seniority-levels)
    * [Performance Competencies](#performance-competencies)
      * [Description and competency indicators](#description-and-competency-indicators)      
-   * [Learning Path](#learning-path)      
+   * [Learning Path](#learning-path)  
+     * [Recommended learning resources](#recommended-learning-resources)
+     * [Things every Web Developer should know](#things-every-web-developer-should-know)
 <!--te-->
 
 ## Developer Seniority Levels
@@ -16,7 +18,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 ### Description and competency indicators
 
 ## Learning Path
-
+### Recommended learning resources
 
 0. UML
    - [Unified Modeling Language](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
@@ -91,4 +93,19 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 
 20. [DevOps for .NET Apps](https://dotnet.microsoft.com/en-us/learn/aspnet/devops)
 
+### Things every Web Developer should know
+- HTML/CSS/JS
+- React||VueJs||Svelte||Angular
+- Git/Github
+- Browser DevTools
+- REST API
+- Authentication
+- MVC
+- SEO basics
+- UI/UX basics
+- master Google
+- Problem Solving
+- Tests
+- Deployment
+- DevOps basics
 
