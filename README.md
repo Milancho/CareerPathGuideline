@@ -77,7 +77,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
     - [Buber Breakfast](https://github.com/amantinband/buber-breakfast)    
     
 14. YouTube Channels
-    - [ASP.NET 6 REST API Following CLEAN ARCHITECTURE & DDD Tutorial](https://www.youtube.com/watch?v=fhM0V2N1GpY&list=PLzYkqgWkHPKBcDIP5gzLfASkQyTdy0t4k&index=2)
+    - [ASP.NET 6 REST API](https://www.youtube.com/c/AmichaiMantinband)    
     - [Build a Webshop | Node.js/TypeScript/Angular/Stripe](https://www.youtube.com/watch?v=-QV07KcnJEk&list=PLScrG_rylzz8kbcptjhf3W-Tk2VbJoxhn&index=6&t=8s)
     
 15. [Kanban](https://app.pluralsight.com/library/courses/kanban-getting-started/table-of-contents)
