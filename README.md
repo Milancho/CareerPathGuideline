@@ -3,8 +3,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 
 # Table of contents
 <!--ts-->   
-   * [Developer Seniority Levels](#developer-seniority-levels)
-     * [From Software Developer to Engineering Manager](from-software-developer-to-engineering-manager)
+   * [Developer Seniority Levels](#developer-seniority-levels)     
    * [Performance Competencies](#performance-competencies)
      * [Description and competency indicators](#description-and-competency-indicators)      
    * [Learning Path](#learning-path)  
@@ -14,14 +13,18 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 <!--te-->
 
 ## Developer Seniority Levels
-* [Software Engineer Qualification Levels](https://www.altexsoft.com/blog/business/software-engineer-qualification-levels-junior-middle-and-senior/)
-* [Career Path Guideline](https://www.emitknowledge.com/career-path-guideline.html)
+   * [Software Engineer Qualification Levels](https://www.altexsoft.com/blog/business/software-engineer-qualification-levels-junior-middle-and-senior/)
+   * [Career Path Guideline](https://www.emitknowledge.com/career-path-guideline.html)
 
+### Software Engineer
+   * [How to Give a Killer Presentation as a Software Engineer](https://www.linkedin.com/video/event/urn:li:ugcPost:6963059682483519488/)
 ### Engineering Manager
-  - [Праксите на добар менаџер - искуство од Booking.com](https://www.youtube.com/watch?v=MmKZWl-bJmE)
-  - [From Software Engineer to Engineering Manager: What Can You Expect From Your New Role?](https://adevait.com/blog/workplace/from-software-engineer-to-engineering-manager)
-  - [From Software Developer to Engineering Manager: Mastering the Transition](https://www.youtube.com/watch?v=rjEZPuOMWHY)
-  - 
+  * [Праксите на добар менаџер - искуство од Booking.com](https://www.youtube.com/watch?v=MmKZWl-bJmE)
+  * [From Software Engineer to Engineering Manager: What Can You Expect From Your New Role?](https://adevait.com/blog/workplace/from-software-engineer-to-engineering-manager)
+  * [From Software Developer to Engineering Manager: Mastering the Transition](https://www.youtube.com/watch?v=rjEZPuOMWHY)
+  * [How to move from Individual Contributor (developer) to Engineering management](https://www.linkedin.com/feed/update/urn:li:activity:6964535082355167233/)
+  * [Most Leaders Don't Even Know the Game They're In | Simon Sinek](https://www.youtube.com/watch?v=RyTQ5-SQYTo&t=1384s)
+  * [Building Software at a Massive Scale from the Perspective of a Director of Engineering at Google](https://hopin.com/events/building-software-at-a-massive-scale-from-the-perspective-of-a-director-of-engineering-at-google-c4e741f7-aad3-411d-bae6-8dde7460756c)
 ## Performance Competencies
 ### Description and competency indicators
 
