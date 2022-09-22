@@ -4,6 +4,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 # Table of contents
 <!--ts-->   
    * [Developer Seniority Levels](#developer-seniority-levels)
+     * [From Software Developer to Engineering Manager](from-software-developer-to-engineering-manager)
    * [Performance Competencies](#performance-competencies)
      * [Description and competency indicators](#description-and-competency-indicators)      
    * [Learning Path](#learning-path)  
@@ -14,7 +15,13 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 
 ## Developer Seniority Levels
 * [Software Engineer Qualification Levels](https://www.altexsoft.com/blog/business/software-engineer-qualification-levels-junior-middle-and-senior/)
+* [Career Path Guideline](https://www.emitknowledge.com/career-path-guideline.html)
 
+### Engineering Manager
+  - [Праксите на добар менаџер - искуство од Booking.com](https://www.youtube.com/watch?v=MmKZWl-bJmE)
+  - [From Software Engineer to Engineering Manager: What Can You Expect From Your New Role?](https://adevait.com/blog/workplace/from-software-engineer-to-engineering-manager)
+  - [From Software Developer to Engineering Manager: Mastering the Transition](https://www.youtube.com/watch?v=rjEZPuOMWHY)
+  - 
 ## Performance Competencies
 ### Description and competency indicators
 
