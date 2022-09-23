@@ -33,13 +33,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
   * [Building Software at a Massive Scale from the Perspective of a Director of Engineering at Google](https://hopin.com/events/building-software-at-a-massive-scale-from-the-perspective-of-a-director-of-engineering-at-google-c4e741f7-aad3-411d-bae6-8dde7460756c)
   
 ### Benefits
-1. 25 Days paid vacation
-1. Health insurance
-1. Training and development programs
-1. Internal recognition system with bonus
-1. Social events
-1. Presents for your work anniversary, birthday
-1. Remote or hybrid work model
+   - [Benefits](https://github.com/Milancho/CareerPathGuideline/wiki/benefits)
 
 ## Performance Competencies
 ### Description and competency indicators
