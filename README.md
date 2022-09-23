@@ -14,13 +14,12 @@ Software development happens in your head. Not in an editor, IDE, or design tool
      * [Recommended learning resources](#recommended-learning-resources)
      * [Things every Web Developer should know](#things-every-web-developer-should-know)
      * [Programming Puzzles](#programming-puzzles)
+     * [Additional resources](#additional-resources)
+   * [Recommended content](#recommended-content)
    * [Under construction](#under-construction)  
 <!--te-->
 
-## Developer Seniority Levels
-   * [Software Engineer Qualification Levels](https://www.altexsoft.com/blog/business/software-engineer-qualification-levels-junior-middle-and-senior/)
-   * [Career Path Guideline](https://www.emitknowledge.com/career-path-guideline.html)
-
+## Developer Seniority Levels 
 ### Roles
 #### Software Engineer
    * [How to Give a Killer Presentation as a Software Engineer](https://www.linkedin.com/video/event/urn:li:ugcPost:6963059682483519488/)
@@ -110,7 +109,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 15. [Kanban](https://app.pluralsight.com/library/courses/kanban-getting-started/table-of-contents)
 
 --------------------------------------------------------------------------------------------------
-
+### Additional resources
 1. [Microsoft technical documentation](https://learn.microsoft.com/en-gb/?wt.mc_id=rebrand_linkedin_organicsocial_wwl)
 1. [Recommended learning resources for C# and .NET](https://www.linkedin.com/posts/milanmilanovic_csharp-net-learning-activity-6975336095915872256-4etq/?utm_source=share&utm_medium=member_desktop)
 
@@ -144,6 +143,10 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 - https://leetcode.com/
 - https://www.algoexpert.io/
 
+### Recommended content
+   * [Software Engineer Qualification Levels](https://www.altexsoft.com/blog/business/software-engineer-qualification-levels-junior-middle-and-senior/)
+   * [Career Path Guideline](https://www.emitknowledge.com/career-path-guideline.html)
+   
 ### Under construction
 1. Za lider ti treba
    - soft skils
