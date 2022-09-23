@@ -187,3 +187,5 @@ Software development happens in your head. Not in an editor, IDE, or design tool
    - achivements
    - da bide prepoznaen za dobrata rabota
    - da bide kompenziran za rabotata
+1. 5 prednosti, 5 nedostatoci
+1. Nabroj raboti so sakas da gi postigni
