@@ -148,47 +148,4 @@ Software development happens in your head. Not in an editor, IDE, or design tool
    * [Career Path Guideline](https://www.emitknowledge.com/career-path-guideline.html)
    
 ### Under construction
-1. Za lider ti treba
-   - soft skils
-   - empowering people not micromanaging people
-   - helping team to do tasks
-   - passion to be leader
-
-1. the best technical individual contributer maybe not be the best leader
-
-1. how to choose people for lidership roles:
-   - its more art than sience
-   - do you realy want to do this, liderot mora da bide svesen za ulogata
-   
-1. Sto treba liderot da pravi
-   - treba da im obezbedis na tie sto gi vodis da rastat
-   - da se prasas vo sto ke porasnam jas za 5 god
-
-1. Razlicno e team lead od menadzer. 
-   - Team lead e mentor, train but don't manage people
-
-1. procesi:
-   - ray dalio model
-
-1. Kako da porasnis introverten clen vo timot 
-   - ?
-1. Merete se vo rabotata i postavete go prasanjeto koi se key metrics sto sakame da gi podobrime.
-   - Ova se metriki za sledni 3 meseci, ova za sledni 6 ova za godina sto sakame da go postigneme
-
-1. In a large scale team, what metrics do you use to monitor the team performance and delivery? - ova ne go odgovori
-
-1. First leading without management, posle toa preminal na menadzment
-
-1. Se sto pravis sega ke ima implikacija po 5 god 
-
-1. Critical conversation ili crucial conversations - nekoja kniga so ja spomna
-
-1. Ako ne rastis vo rabotata ne si srekjen i najduvas maani na kompanijata, menadzerot, kolegite ...
-
-1. Sekoj vraboten saka 
-   - avtonomija da napravi kako sto smeta deka e najdobro. da ne go prazuvaat non stop do kaj e
-   - achivements
-   - da bide prepoznaen za dobrata rabota
-   - da bide kompenziran za rabotata
-1. 5 prednosti, 5 nedostatoci
-1. Nabroj raboti so sakas da gi postigni
+- [wiki](https://github.com/Milancho/CareerPathGuideline/wiki) 
