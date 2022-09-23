@@ -14,6 +14,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
      * [Recommended learning resources](#recommended-learning-resources)
      * [Things every Web Developer should know](#things-every-web-developer-should-know)
      * [Programming Puzzles](#programming-puzzles)
+   * [Under construction](#under-construction)  
 <!--te-->
 
 ## Developer Seniority Levels
@@ -33,6 +34,13 @@ Software development happens in your head. Not in an editor, IDE, or design tool
   * [Building Software at a Massive Scale from the Perspective of a Director of Engineering at Google](https://hopin.com/events/building-software-at-a-massive-scale-from-the-perspective-of-a-director-of-engineering-at-google-c4e741f7-aad3-411d-bae6-8dde7460756c)
   
 ### Benefits
+1. 25 Days paid vacation
+1. Health insurance
+1. Training and development programs
+1. Internal recognition system with bonus
+1. Social events
+1. Presents for your work anniversary, birthday
+1. Remote or hybrid work model
 
 ## Performance Competencies
 ### Description and competency indicators
@@ -103,15 +111,16 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 
 --------------------------------------------------------------------------------------------------
 
-16. [Recommended learning resources for C# and .NET](https://www.linkedin.com/posts/milanmilanovic_csharp-net-learning-activity-6975336095915872256-4etq/?utm_source=share&utm_medium=member_desktop)
+1. [Microsoft technical documentation](https://learn.microsoft.com/en-gb/?wt.mc_id=rebrand_linkedin_organicsocial_wwl)
+1. [Recommended learning resources for C# and .NET](https://www.linkedin.com/posts/milanmilanovic_csharp-net-learning-activity-6975336095915872256-4etq/?utm_source=share&utm_medium=member_desktop)
 
-17. [Free. Cross-platform. Open source.](https://learn.microsoft.com/en-gb/training/dotnet/?WT.mc_id=dotnet-35129-website)
+1. [Free. Cross-platform. Open source.](https://learn.microsoft.com/en-gb/training/dotnet/?WT.mc_id=dotnet-35129-website)
 
-18. [ASP.NET Core Application Architecture](https://dotnet.microsoft.com/en-us/learn/aspnet/architecture)
+1. [ASP.NET Core Application Architecture](https://dotnet.microsoft.com/en-us/learn/aspnet/architecture)
 
-19. [NET Microservices Architecture Guidance](https://dotnet.microsoft.com/en-us/learn/aspnet/microservices-architecture)
+1. [NET Microservices Architecture Guidance](https://dotnet.microsoft.com/en-us/learn/aspnet/microservices-architecture)
 
-20. [DevOps for .NET Apps](https://dotnet.microsoft.com/en-us/learn/aspnet/devops)
+1. [DevOps for .NET Apps](https://dotnet.microsoft.com/en-us/learn/aspnet/devops)
 
 ### Things every Web Developer should know
 - HTML/CSS/JS
@@ -134,3 +143,47 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 - https://www.hackerrank.com/
 - https://leetcode.com/
 - https://www.algoexpert.io/
+
+### Under construction
+1. Za lider ti treba
+   - soft skils
+   - empowering people not micromanaging people
+   - helping team to do tasks
+   - passion to be leader
+
+1. the best technical individual contributer maybe not be the best leader
+
+1. how to choose people for lidership roles:
+   - its more art than sience
+   - do you realy want to do this, liderot mora da bide svesen za ulogata
+   
+1. Sto treba liderot da pravi
+   - treba da im obezbedis na tie sto gi vodis da rastat
+   - da se prasas vo sto ke porasnam jas za 5 god
+
+1. Razlicno e team lead od menadzer. 
+   - Team lead e mentor, train but don't manage people
+
+1. procesi:
+   - ray dalio model
+
+1. Kako da porasnis introverten clen vo timot 
+   - ?
+1. Merete se vo rabotata i postavete go prasanjeto koi se key metrics sto sakame da gi podobrime.
+   - Ova se metriki za sledni 3 meseci, ova za sledni 6 ova za godina sto sakame da go postigneme
+
+1. In a large scale team, what metrics do you use to monitor the team performance and delivery? - ova ne go odgovori
+
+1. First leading without management, posle toa preminal na menadzment
+
+1. Se sto pravis sega ke ima implikacija po 5 god 
+
+1. Critical conversation ili crucial conversations - nekoja kniga so ja spomna
+
+1. Ako ne rastis vo rabotata ne si srekjen i najduvas maani na kompanijata, menadzerot, kolegite ...
+
+1. Sekoj vraboten saka 
+   - avtonomija da napravi kako sto smeta deka e najdobro. da ne go prazuvaat non stop do kaj e
+   - achivements
+   - da bide prepoznaen za dobrata rabota
+   - da bide kompenziran za rabotata
