@@ -23,7 +23,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 
 0. UML
    - [Unified Modeling Language](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
-   - [UML Diagram Types Guide](https://creately.com/blog/diagrams/uml-diagram-types-examples/)
+   - [Software Design: Modeling with UML](https://www.linkedin.com/learning/software-design-modeling-with-uml)
    - [Pluralsight - Introduction to UML](https://app.pluralsight.com/library/courses/uml-introduction/table-of-contents?aid=7010a000002LUv2AAG)
 
 1. SQL Database programming   
