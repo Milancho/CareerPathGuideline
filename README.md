@@ -53,10 +53,8 @@ Software development happens in your head. Not in an editor, IDE, or design tool
    - [Pluralsight - Developing SQL Server Databases](https://app.pluralsight.com/paths/skills/developing-sql-server-databases?aid=7010a000002LUv2AAG)
    - [w3schools   - SQL Tutorial](https://www.w3schools.com/sql/default.asp)
    
-2. 55320: Programming with HTML, CSS, and JavaScript
-   - [Microsoft   - Build a simple website using HTML, CSS, and JavaScript](https://learn.microsoft.com/en-gb/training/modules/build-simple-website/)
-   - [Microsoft   - Web Development for Beginners](https://learn.microsoft.com/en-gb/training/paths/web-development-101/)   
-   - [Microsoft   - Learn](https://learn.microsoft.com/en-gb/training/browse/?filter-products=HTML&terms=HTML)
+2. 55320: Programming with HTML, CSS, and JavaScript   
+   - [Microsoft   - Web Development for Beginners](https://learn.microsoft.com/en-gb/training/paths/web-development-101/)      
    - [w3schools   - HTML Tutorial](https://www.w3schools.com/html/)
    - [w3schools   - CSS Tutorial](https://www.w3schools.com/css/default.asp)
    - [w3schools   - Bootstrap Tutorial](https://www.w3schools.com/bootstrap/)
