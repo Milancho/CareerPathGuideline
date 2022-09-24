@@ -39,6 +39,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
    - [w3schools   - CSS Tutorial](https://www.w3schools.com/css/default.asp)
    - [w3schools   - Bootstrap Tutorial](https://www.w3schools.com/bootstrap/)
    - [w3schools   - JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
+   - [Pluralsight - Building Websites with HTML, CSS and JavaScript](https://app.pluralsight.com/paths/skill/building-websites-with-html-css-and-javascript)
 
 3. JSON
    - [JSON - Introduction](https://www.w3schools.com/js/js_json_intro.asp) 
