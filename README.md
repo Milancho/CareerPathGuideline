@@ -69,7 +69,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
    - [w3schools   - C# Tutorial](https://www.w3schools.com/cs/index.php)
 
 5. 55340: Developing ASP.NET Core Web Applications
-    - [Microsoft - Build web apps with ASP.NET Core for beginners](https://learn.microsoft.com/en-gb/training/paths/web-development-101/)
+    - [Microsoft - Build web apps with ASP.NET Core for beginners](https://learn.microsoft.com/en-gb/training/paths/aspnet-core-web-app/)
     - [Microsoft - Develop ASP.NET Core apps](https://learn.microsoft.com/en-gb/aspnet/core/?view=aspnetcore-6.0)
 
 6. Agular - SPA 
