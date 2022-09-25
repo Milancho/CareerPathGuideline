@@ -1,3 +1,9 @@
+### Hi there, I'm Milancho Arsovski! 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=milancho&color=green)</div>
+
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/milanchoarsovski/)
+
+<hr/>
+
 # Career Path Guideline
 Software development happens in your head. Not in an editor, IDE, or design tool. Learning new skills and new technology is critical to your career, and it's all in your head.
 
@@ -130,3 +136,9 @@ Software development happens in your head. Not in an editor, IDE, or design tool
    
 ### Under construction
 - [wiki](https://github.com/Milancho/CareerPathGuideline/wiki) 
+
+<hr/>
+
+<a href="https://github.com/milancho">
+  <img src="https://github-readme-stats.vercel.app/api?username=milancho&count_private=true&show_icons=true&hide=stars" />
+</a>
