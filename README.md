@@ -68,13 +68,13 @@ Software development happens in your head. Not in an editor, IDE, or design tool
    - [Udemy - Git & GitHub - The Practical Guide](https://www.udemy.com/course/git-github-practical-guide/)
    
 10. Microservices
-    - [.NET Microservices Architecture Guidance](https://dotnet.microsoft.com/en-us/learn/aspnet/microservices-architecture)
-    - [Udemy Docker & Kubernetes: The Practical Guide [2022 Edition]](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/) 
+    - [.NET Microservices Architecture Guidance](https://dotnet.microsoft.com/en-us/learn/aspnet/microservices-architecture)    
     - [Pluralsight - ASP.NET Microservices](https://app.pluralsight.com/paths/skills/net-microservices)
     - [Pluralsight - Microservices Architecture](https://app.pluralsight.com/paths/skills/microservices-architecture)
 
 11. DevOps
     - [DevOps for .NET Apps](https://dotnet.microsoft.com/en-us/learn/aspnet/devops)
+    - [Udemy Docker & Kubernetes: The Practical Guide [2022 Edition]](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/) 
     
 12. QA
 
