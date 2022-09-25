@@ -65,36 +65,32 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 9. Git & GitHub
    - [Udemy - Git & GitHub - The Practical Guide](https://www.udemy.com/course/git-github-practical-guide/)
    
-10. Docker & Kubernetes
-   - [Udemy Docker & Kubernetes: The Practical Guide [2022 Edition]](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/)   
-   
-11. QA
+10. Microservices
+    - [.NET Microservices Architecture Guidance](https://dotnet.microsoft.com/en-us/learn/aspnet/microservices-architecture)
+    - [Udemy Docker & Kubernetes: The Practical Guide [2022 Edition]](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/)   
 
-12. Security
-   - [OWASP Training with Juice Shop Sample Application](https://ardalis.com/owasp-training-with-juice-shop-sample-application/?utm_sq=h2m864vpe0)
-   
-13. Source Code
-    - [Valuable Open-Source Projects on ASP.NET and .NET](https://www.nopcommerce.com/en/blog/valuable-asp-net-open-source-projects)
-    - [Buber Breakfast](https://github.com/amantinband/buber-breakfast)    
+11. DevOps
+    - [DevOps for .NET Apps](https://dotnet.microsoft.com/en-us/learn/aspnet/devops)
     
-14. YouTube Channels
-    - [ASP.NET 6 REST API](https://www.youtube.com/c/AmichaiMantinband)    
-    - [Build a Webshop | Node.js/TypeScript/Angular/Stripe](https://www.youtube.com/watch?v=-QV07KcnJEk&list=PLScrG_rylzz8kbcptjhf3W-Tk2VbJoxhn&index=6&t=8s)
+12. QA
+
+13. Security
+    - [OWASP Training with Juice Shop Sample Application](https://ardalis.com/owasp-training-with-juice-shop-sample-application/?utm_sq=h2m864vpe0)
     
-15. [Kanban](https://app.pluralsight.com/library/courses/kanban-getting-started/table-of-contents)
+14. [Kanban](https://app.pluralsight.com/library/courses/kanban-getting-started/table-of-contents)
 
 --------------------------------------------------------------------------------------------------
 ### Additional resources
 1. [Microsoft technical documentation](https://learn.microsoft.com/en-gb/?wt.mc_id=rebrand_linkedin_organicsocial_wwl)
 1. [Recommended learning resources for C# and .NET](https://www.linkedin.com/posts/milanmilanovic_csharp-net-learning-activity-6975336095915872256-4etq/?utm_source=share&utm_medium=member_desktop)
-
 1. [Free. Cross-platform. Open source.](https://learn.microsoft.com/en-gb/training/dotnet/?WT.mc_id=dotnet-35129-website)
-
 1. [ASP.NET Core Application Architecture](https://dotnet.microsoft.com/en-us/learn/aspnet/architecture)
-
-1. [NET Microservices Architecture Guidance](https://dotnet.microsoft.com/en-us/learn/aspnet/microservices-architecture)
-
-1. [DevOps for .NET Apps](https://dotnet.microsoft.com/en-us/learn/aspnet/devops)
+1. Source Code
+    - [Valuable Open-Source Projects on ASP.NET and .NET](https://www.nopcommerce.com/en/blog/valuable-asp-net-open-source-projects)
+    - [Buber Breakfast](https://github.com/amantinband/buber-breakfast)        
+1. YouTube Channels
+    - [ASP.NET 6 REST API](https://www.youtube.com/c/AmichaiMantinband)    
+    - [Build a Webshop | Node.js/TypeScript/Angular/Stripe](https://www.youtube.com/watch?v=-QV07KcnJEk&list=PLScrG_rylzz8kbcptjhf3W-Tk2VbJoxhn&index=6&t=8s)
 
 ### Things every Web Developer should know
 - HTML/CSS/JS
@@ -132,8 +128,6 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 
 ## Performance Competencies
 ### Description and competency indicators
-
-
 
 ### Recommended content
    * [Software Engineer Qualification Levels](https://www.altexsoft.com/blog/business/software-engineer-qualification-levels-junior-middle-and-senior/)
