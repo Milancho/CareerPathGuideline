@@ -1,16 +1,3 @@
-### Hi there, I'm Milancho Arsovski! 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=milancho&color=green)</div>
-
-[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/milanchoarsovski/)
-
-### Glad to see you here!
-I’m currently working on ASP.NET Core.     
-Love interacting with the community, share knowledge and learn new things.
-
-**Talking about Personal Stuff:**
-- 🏢 I currently work at Aspekt.
-
-<hr/>
-
 # Career Path Guideline
 Software development happens in your head. Not in an editor, IDE, or design tool. Learning new skills and new technology is critical to your career, and it's all in your head.
 
@@ -143,13 +130,3 @@ Software development happens in your head. Not in an editor, IDE, or design tool
    
 ### Under construction
 - [wiki](https://github.com/Milancho/CareerPathGuideline/wiki) 
-
-<hr/>
-
-📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=milancho&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milancho&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=javascript"/>
-</p>
-
