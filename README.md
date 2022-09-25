@@ -45,26 +45,33 @@ Software development happens in your head. Not in an editor, IDE, or design tool
    - [Microsoft   - Learn C#](https://learn.microsoft.com/en-us/users/dotnet/collections/yz26f8y64n7k07)
    - [Microsoft   - C# Fundamentals for Absolute Beginners](https://learn.microsoft.com/en-us/shows/c-fundamentals-for-absolute-beginners/)
    - [w3schools   - C# Tutorial](https://www.w3schools.com/cs/index.php)
+   - [Pluralsight - .NET Class Libraries with C#](https://app.pluralsight.com/paths/skills/net-framework-class-libraries-with-c)
 
 5. 55340: Developing ASP.NET Core Web Applications
     - [Microsoft - Build web apps with ASP.NET Core for beginners](https://learn.microsoft.com/en-gb/training/paths/aspnet-core-web-app/)
     - [Microsoft - Develop ASP.NET Core apps](https://learn.microsoft.com/en-gb/aspnet/core/?view=aspnetcore-6.0)
-
+    - [API Development in ASP.NET Core](https://app.pluralsight.com/paths/skills/api-development-in-aspnet-core)
+    - [Pluralsight - ASP.NET MVC 5](https://app.pluralsight.com/paths/skills/mvc5)
+    - [Pluralsight - ASP.NET Core 6](https://app.pluralsight.com/paths/skills/aspnet-core-6)
+    
 6. Agular - SPA 
    - [Udemy - Angular - The Complete Guide (2022 Edition)](https://www.udemy.com/course/the-complete-guide-to-angular-2/learn/lecture/13914134?start=15#announcements)
+   - [Pluralsight - Angular](https://app.pluralsight.com/paths/skills/angular)
 
 7. Ionic - mobile/tablet
    - [Udemy - Ionic - Build iOS, Android & Web Apps with Ionic & Angular](https://www.udemy.com/course/ionic-2-the-practical-guide-to-building-ios-android-apps/learn/lecture/13726172?start=0#overview)
 
 8. Azure, AWS, Firebase
    - [Microsoft - Azure Developer](https://learn.microsoft.com/en-us/certifications/roles/developer)
-
+   - [Pluralsight - .NET Developer on Microsoft Azure](https://app.pluralsight.com/paths/skills/net-developer-on-microsoft-azure)
 9. Git & GitHub
    - [Udemy - Git & GitHub - The Practical Guide](https://www.udemy.com/course/git-github-practical-guide/)
    
 10. Microservices
     - [.NET Microservices Architecture Guidance](https://dotnet.microsoft.com/en-us/learn/aspnet/microservices-architecture)
-    - [Udemy Docker & Kubernetes: The Practical Guide [2022 Edition]](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/)   
+    - [Udemy Docker & Kubernetes: The Practical Guide [2022 Edition]](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/) 
+    - [Pluralsight - ASP.NET Microservices](https://app.pluralsight.com/paths/skills/net-microservices)
+    - [Pluralsight - Microservices Architecture](https://app.pluralsight.com/paths/skills/microservices-architecture)
 
 11. DevOps
     - [DevOps for .NET Apps](https://dotnet.microsoft.com/en-us/learn/aspnet/devops)
@@ -88,6 +95,8 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 1. YouTube Channels
     - [ASP.NET 6 REST API](https://www.youtube.com/c/AmichaiMantinband)    
     - [Build a Webshop | Node.js/TypeScript/Angular/Stripe](https://www.youtube.com/watch?v=-QV07KcnJEk&list=PLScrG_rylzz8kbcptjhf3W-Tk2VbJoxhn&index=6&t=8s)
+1. [Pluralsight - DEVELOPMENT PATHS](https://www.pluralsight.com/product/paths/development)
+
 
 ### Things every Web Developer should know
 - HTML/CSS/JS
