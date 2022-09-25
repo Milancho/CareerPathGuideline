@@ -71,7 +71,8 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 11. QA
 
 12. Security
-
+   - [OWASP Training with Juice Shop Sample Application](https://ardalis.com/owasp-training-with-juice-shop-sample-application/?utm_sq=h2m864vpe0)
+   
 13. Source Code
     - [Valuable Open-Source Projects on ASP.NET and .NET](https://www.nopcommerce.com/en/blog/valuable-asp-net-open-source-projects)
     - [Buber Breakfast](https://github.com/amantinband/buber-breakfast)    
@@ -128,9 +129,6 @@ Software development happens in your head. Not in an editor, IDE, or design tool
   * [How to move from Individual Contributor (developer) to Engineering management](https://www.linkedin.com/feed/update/urn:li:activity:6964535082355167233/)
   * [Most Leaders Don't Even Know the Game They're In | Simon Sinek](https://www.youtube.com/watch?v=RyTQ5-SQYTo&t=1384s)
   * [Building Software at a Massive Scale from the Perspective of a Director of Engineering at Google](https://hopin.com/events/building-software-at-a-massive-scale-from-the-perspective-of-a-director-of-engineering-at-google-c4e741f7-aad3-411d-bae6-8dde7460756c)
-  
-### Benefits
-   - [Benefits](https://github.com/Milancho/CareerPathGuideline/wiki/benefits)
 
 ## Performance Competencies
 ### Description and competency indicators
