@@ -78,8 +78,13 @@ Software development happens in your head. Not in an editor, IDE, or design tool
     - [Udemy Docker & Kubernetes: The Practical Guide [2022 Edition]](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/) 
     
 12. QA
-
+    - [Pluralsight - ISTQB® Foundation](https://app.pluralsight.com/paths/certificate/istqbr-foundation)
+    - [Pluralsight - Automated Testing: End to End](https://app.pluralsight.com/library/courses/automated-testing-end-to-end/table-of-contents)
+    - [Pluralsight - Software Testing and Quality Assurance: The Big Picture](https://app.pluralsight.com/library/courses/software-testing-quality-assurance-big-picture/table-of-contents)
+    
 13. Security
+    - [Pluralsight - Securing ASP.NET and ASP.NET Core Applications](https://app.pluralsight.com/paths/skills/securing-aspnet-and-aspnet-core-applications)
+    - [Pluralsight - Securing Applications and APIs with the Microsoft Identity Platform](https://app.pluralsight.com/paths/skills/securing-applications-and-apis-with-the-microsoft-identity-platform)
     - [OWASP Training with Juice Shop Sample Application](https://ardalis.com/owasp-training-with-juice-shop-sample-application/?utm_sq=h2m864vpe0)
     
 14. [Kanban](https://app.pluralsight.com/library/courses/kanban-getting-started/table-of-contents)
