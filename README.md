@@ -48,8 +48,9 @@ Software development happens in your head. Not in an editor, IDE, or design tool
    - [Pluralsight - .NET Class Libraries with C#](https://app.pluralsight.com/paths/skills/net-framework-class-libraries-with-c)
 
 5. 55340: Developing ASP.NET Core Web Applications
+    - [Microsoft - ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet)
     - [Microsoft - Build web apps with ASP.NET Core for beginners](https://learn.microsoft.com/en-gb/training/paths/aspnet-core-web-app/)
-    - [Microsoft - Develop ASP.NET Core apps](https://learn.microsoft.com/en-gb/aspnet/core/?view=aspnetcore-6.0)
+    - [Microsoft - Develop ASP.NET Core apps](https://learn.microsoft.com/en-gb/aspnet/core/?view=aspnetcore-6.0)    
     - [API Development in ASP.NET Core](https://app.pluralsight.com/paths/skills/api-development-in-aspnet-core)
     - [Pluralsight - ASP.NET MVC 5](https://app.pluralsight.com/paths/skills/mvc5)
     - [Pluralsight - ASP.NET Core 6](https://app.pluralsight.com/paths/skills/aspnet-core-6)
