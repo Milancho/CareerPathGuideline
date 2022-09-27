@@ -4,8 +4,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 # Table of contents
 <!--ts-->   
    * [Learning Path](#learning-path)  
-      * [Recommended learning resources](#recommended-learning-resources)
-      * [Things every Web Developer should know](#things-every-web-developer-should-know)
+      * [Recommended learning resources](#recommended-learning-resources)      
       * [Programming Puzzles](#programming-puzzles)
       * [Additional resources](#additional-resources)
    * [Developer Seniority Levels](#developer-seniority-levels)     
@@ -103,23 +102,6 @@ Software development happens in your head. Not in an editor, IDE, or design tool
     - [Build a Webshop | Node.js/TypeScript/Angular/Stripe](https://www.youtube.com/watch?v=-QV07KcnJEk&list=PLScrG_rylzz8kbcptjhf3W-Tk2VbJoxhn&index=6&t=8s)
 1. [Pluralsight - DEVELOPMENT PATHS](https://www.pluralsight.com/product/paths/development)
 
-
-### Things every Web Developer should know
-- HTML/CSS/JS
-- React||VueJs||Svelte||Angular
-- Git/Github
-- Browser DevTools
-- REST API
-- Authentication
-- MVC
-- SEO basics
-- UI/UX basics
-- master Google
-- Problem Solving
-- Tests
-- Deployment
-- DevOps basics
-
 ### Programming Puzzles
 - https://adventofcode.com/
 - https://www.hackerrank.com/
@@ -133,7 +115,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 ### Recommended content
    * [Software Engineer Qualification Levels](https://www.altexsoft.com/blog/business/software-engineer-qualification-levels-junior-middle-and-senior/)
    * [Career Path Guideline](https://www.emitknowledge.com/career-path-guideline.html)
-   
+   * [Мапирање на ИТ индустријата во .мк](https://it.mk/mapiranje-na-it-industrijata-vo-mk-2022/)
 ### Under construction
 - [wiki](https://github.com/Milancho/CareerPathGuideline/wiki) 
 
