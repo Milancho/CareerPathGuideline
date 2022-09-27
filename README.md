@@ -136,3 +136,5 @@ Software development happens in your head. Not in an editor, IDE, or design tool
    
 ### Under construction
 - [wiki](https://github.com/Milancho/CareerPathGuideline/wiki) 
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/milanco)
