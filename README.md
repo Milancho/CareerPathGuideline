@@ -63,6 +63,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
    - [Udemy - Ionic - Build iOS, Android & Web Apps with Ionic & Angular](https://www.udemy.com/course/ionic-2-the-practical-guide-to-building-ios-android-apps/learn/lecture/13726172?start=0#overview)
 
 8. Azure, AWS, Firebase
+   - [Microsoft - Azure Certifications Map](https://www.linkedin.com/posts/milanmilanovic_microsoft-azure-certifications-map-activity-6980759683003215872-fR6l?utm_source=share&utm_medium=member_desktop)
    - [Microsoft - Azure Developer](https://learn.microsoft.com/en-us/certifications/roles/developer)
    - [Pluralsight - .NET Developer on Microsoft Azure](https://app.pluralsight.com/paths/skills/net-developer-on-microsoft-azure)
 9. Git & GitHub
