@@ -42,15 +42,16 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 
 4. 55339: Programming in C#
    - [Microsoft   - Learn C#](https://learn.microsoft.com/en-us/users/dotnet/collections/yz26f8y64n7k07)
-   - [Microsoft   - C# Fundamentals for Absolute Beginners](https://learn.microsoft.com/en-us/shows/c-fundamentals-for-absolute-beginners/)
+   - [Microsoft   - C# Fundamentals for Absolute Beginners](https://learn.microsoft.com/en-us/shows/c-fundamentals-for-absolute-beginners/)   
    - [w3schools   - C# Tutorial](https://www.w3schools.com/cs/index.php)
    - [Pluralsight - .NET Class Libraries with C#](https://app.pluralsight.com/paths/skills/net-framework-class-libraries-with-c)
 
 5. 55340: Developing ASP.NET Core Web Applications
+    - [Microsoft - Intro to Web Development with .NET](https://github.com/dotnet/intro-to-dotnet-web-dev?wt.mc_id=dotnet_weblearnseries_email_cnl#msdynttrid=1aXgiLBRyF0NFHaaRSsZF_ze_d6mMNLUeo1X_VOvm00)
     - [Microsoft - ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet)
     - [Microsoft - Build web apps with ASP.NET Core for beginners](https://learn.microsoft.com/en-gb/training/paths/aspnet-core-web-app/)
     - [Microsoft - Develop ASP.NET Core apps](https://learn.microsoft.com/en-gb/aspnet/core/?view=aspnetcore-6.0)    
-    - [API Development in ASP.NET Core](https://app.pluralsight.com/paths/skills/api-development-in-aspnet-core)
+    - [Microsoft - API Development in ASP.NET Core](https://app.pluralsight.com/paths/skills/api-development-in-aspnet-core)
     - [Pluralsight - ASP.NET MVC 5](https://app.pluralsight.com/paths/skills/mvc5)
     - [Pluralsight - ASP.NET Core 6](https://app.pluralsight.com/paths/skills/aspnet-core-6)
     
