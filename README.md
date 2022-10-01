@@ -53,7 +53,8 @@ Software development happens in your head. Not in an editor, IDE, or design tool
             <td>/</td>
         </tr>
         <tr>
-            <th colspan="3">Managerial Track</th>          
+            <th colspan="2">Managerial Track</th>
+            <td></td>          
         </tr>
         <tr>
             <td>Head of Development</td>
