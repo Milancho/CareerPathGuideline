@@ -177,6 +177,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 ### Description and competency indicators
 
 ### Recommended content
+   * [Pragmatic Thinking and Learning: Refactor Your Wetware](https://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050)
    * [Software Engineer Qualification Levels](https://www.altexsoft.com/blog/business/software-engineer-qualification-levels-junior-middle-and-senior/)
    * [Career Path Guideline](https://www.emitknowledge.com/career-path-guideline.html)
    * [Мапирање на ИТ индустријата во .мк](https://it.mk/mapiranje-na-it-industrijata-vo-mk-2022/)
