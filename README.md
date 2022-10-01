@@ -29,6 +29,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
         <tr>
             <td>Trainee</td>
             <td>Intern</td>
+            <td></td>          
         </tr>
         <tr>
             <td>Junior Developer</td>
