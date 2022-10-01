@@ -2,18 +2,57 @@
 Software development happens in your head. Not in an editor, IDE, or design tool. Learning new skills and new technology is critical to your career, and it's all in your head.
 
 # Table of contents
-<!--ts-->   
+<!--ts-->
+   * [Developer Seniority Levels](#developer-seniority-levels)     
+      * [Roles](#roles)
    * [Learning Path](#learning-path)  
       * [Recommended learning resources](#recommended-learning-resources)      
       * [Programming Puzzles](#programming-puzzles)
-      * [Additional resources](#additional-resources)
-   * [Developer Seniority Levels](#developer-seniority-levels)     
-      * [Roles](#roles)      
+      * [Additional resources](#additional-resources)      
    * [Performance Competencies](#performance-competencies)
       * [Description and competency indicators](#description-and-competency-indicators)   
    * [Recommended content](#recommended-content)
    * [Under construction](#under-construction)  
 <!--te-->
+## Developer Seniority Levels 
+### Roles
+Job Position | Roles and systematization
+<table>
+  <thead>
+    <tr>
+      <th>Technical Track - 1</th>
+      <th>Technical Track - 2</th>
+      <th>Managerial Track</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Trainee</td>
+      <td>Intern</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Junior Developer</td>
+      <td>Software Engineer |</td>
+      <td>Engineering Manager | Head of Development</td>
+    </tr>
+    <tr>
+      <td>Middle Developer</td>
+      <td>Software Engineer ||</td>
+      <td>Director of Engineering</td>
+    </tr>
+    <tr>
+      <td>Senior Developer</td>
+      <td>Software Engineer |||</td>
+      <td>CTO</td>
+    </tr>
+    <tr>
+      <td colspan="2">Technical Lead | Engineering Lead | Team Lead | Solution Architects | Principal Engineer | Engineering Manager</td>
+         <td></td>
+    </tr>
+  </tbody>
+</table>
+
 ## Learning Path
 ### Recommended learning resources
 
@@ -109,44 +148,6 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 - https://www.hackerrank.com/
 - https://leetcode.com/
 - https://www.algoexpert.io/
-## Developer Seniority Levels 
-### Roles
-Job Position | Roles and systematization
-<table>
-  <thead>
-    <tr>
-      <th>Technical Track - 1</th>
-      <th>Technical Track - 2</th>
-      <th>Managerial Track</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Trainee</td>
-      <td>Intern</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Junior Developer</td>
-      <td>Software Engineer |</td>
-      <td>Engineering Manager | Head of Development</td>
-    </tr>
-    <tr>
-      <td>Middle Developer</td>
-      <td>Software Engineer ||</td>
-      <td>Director of Engineering</td>
-    </tr>
-    <tr>
-      <td>Senior Developer</td>
-      <td>Software Engineer |||</td>
-      <td>CTO</td>
-    </tr>
-    <tr>
-      <td colspan="2">Technical Lead | Engineering Lead | Team Lead | Solution Architects | Principal Engineer | Engineering Manager</td>
-         <td></td>
-    </tr>
-  </tbody>
-</table>
 
 ## Performance Competencies
 ### Description and competency indicators
