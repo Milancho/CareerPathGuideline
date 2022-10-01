@@ -137,8 +137,27 @@ Job Position (Description) | Roles and systematization
       <td>Software Engineer |||</td>
     </tr>
     <tr>
-      <td colspan="2">Technical Lead | Engineering Lead | Team Lead | Solution Architects | Principal Engineer</td>
+      <td colspan="2">Technical Lead | Engineering Lead | Team Lead | Solution Architects | Principal Engineer | Engineering Manager</td>
     </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Menagirial Track</th>      
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Engineering Manager</td>      
+    </tr>
+    <tr>
+      <td>Director of Engineering</td>      
+    </tr>
+    <tr>
+      <td>CTO</td>      
+    </tr>    
   </tbody>
 </table>
 
