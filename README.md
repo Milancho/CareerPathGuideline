@@ -115,18 +115,32 @@ Job Position (Description) | Roles and systematization
 <table>
   <thead>
     <tr>
-      <th>foo</th>
-      <th>bar</th>
+      <th>Technical Track - 1</th>
+      <th>Technical Track - 2</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>baz</td>
-      <td>bim</td>
+      <td>Trainee</td>
+      <td>Intern</td>
+    </tr>
+    <tr>
+      <td>Junior Developer</td>
+      <td>Software Engineer |</td>
+    </tr>
+    <tr>
+      <td>Middle Developer</td>
+      <td>Software Engineer ||</td>
+    </tr>
+    <tr>
+      <td>Senior Developer</td>
+      <td>Software Engineer |||</td>
+    </tr>
+    <tr>
+      <td colspan="2">Technical Lead | Engineering Lead | Team Lead | Solution Architects | Principal Engineer</td>
     </tr>
   </tbody>
 </table>
-
 
 ## Performance Competencies
 ### Description and competency indicators
