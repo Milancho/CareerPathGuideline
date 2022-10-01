@@ -4,7 +4,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 # Table of contents
 <!--ts-->
    * [Developer Seniority Levels](#developer-seniority-levels)     
-      * [Roles](#roles)
+      * [Job Position](#job-position)
    * [Learning Path](#learning-path)  
       * [Recommended learning resources](#recommended-learning-resources)      
       * [Programming Puzzles](#programming-puzzles)
@@ -15,8 +15,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
    * [Under construction](#under-construction)  
 <!--te-->
 ## Developer Seniority Levels 
-### Roles
-Job Position
+### Job Position
 <table>
   <thead>
     <tr>
