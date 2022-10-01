@@ -47,8 +47,9 @@ Job Position | Roles and systematization
       <td>CTO</td>
     </tr>
     <tr>
-      <td colspan="2">Technical Lead | Engineering Lead | Team Lead | Solution Architects | Principal Engineer | Engineering Manager</td>
-         <td></td>
+      <td>Solution Architects | Technical Lead     | Team Lead  </td>
+      <td>Principal Engineer  | Engineering Lead   | Engineering Manager </td>
+      <td></td>
     </tr>
   </tbody>
 </table>
