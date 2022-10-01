@@ -111,6 +111,23 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 - https://www.algoexpert.io/
 ## Developer Seniority Levels 
 ### Roles
+Job Position (Description) | Roles and systematization
+<table>
+  <thead>
+    <tr>
+      <th>foo</th>
+      <th>bar</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>baz</td>
+      <td>bim</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## Performance Competencies
 ### Description and competency indicators
 
@@ -118,6 +135,8 @@ Software development happens in your head. Not in an editor, IDE, or design tool
    * [Software Engineer Qualification Levels](https://www.altexsoft.com/blog/business/software-engineer-qualification-levels-junior-middle-and-senior/)
    * [Career Path Guideline](https://www.emitknowledge.com/career-path-guideline.html)
    * [Мапирање на ИТ индустријата во .мк](https://it.mk/mapiranje-na-it-industrijata-vo-mk-2022/)
+   * [Software Roles and Titles](https://medium.com/javascript-scene/software-roles-and-titles-e3f0b69c410c)
+   * [List of all Job Roles, Job Titles in Software and IT Companies](https://www.devopsschool.com/blog/list-of-all-job-roles-job-titles-in-software-and-it-companies/)
 ### Under construction
 - [wiki](https://github.com/Milancho/CareerPathGuideline/wiki) 
 
