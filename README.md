@@ -6,6 +6,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
    * [Developer Seniority Levels](#developer-seniority-levels)     
       * [Roles](#roles)
       * [Competencies of developer seniority levels](#competencies-of-developer-seniority-levels)
+      * [Salary](#salary)
    * [Learning Path](#learning-path)  
       * [Recommended learning resources](#recommended-learning-resources)      
       * [Programming Puzzles](#programming-puzzles)
@@ -72,10 +73,64 @@ Software development happens in your head. Not in an editor, IDE, or design tool
     </tbody>
 </table>
 
-
-
-
 ### Competencies of developer seniority levels
+### Salary
+
+<table>
+    <thead>
+        <tr>
+            <th>Seniority Level</th>
+            <th>Company - 1</th>
+            <th>Company - 2</th>
+            <th>Company - 3</th>
+            <th>Bonus</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Intern</th>
+            <td>0 - 500</td>
+            <td>0</td>
+            <td>0</td>
+            <td>/</td>
+        </tr>
+        <tr>
+            <th>Junior</th>
+            <td>500-800</td>
+            <td>0</td>
+            <td>0</td>
+            <td>/</td>
+        </tr>
+        <tr>
+            <th>Middle</th>
+            <td>800-1300</td>
+            <td>0</td>
+            <td>0</td>
+            <td>/</td>
+        </tr>
+        <tr>
+            <th>Senior</th>
+            <td>1300-2000</td>
+            <td>0</td>
+            <td>0</td>
+            <td>/</td>
+        </tr>
+        <tr>
+            <th>Lead</th>
+            <td>2000-3000</td>
+            <td>0</td>
+            <td>0</td>
+            <td>
+              <ul>
+                  <li>Stock Options (part of the company)</li>
+                 <li>Profit-Sharing (bonuses depending on the company's profit)</li>
+                 <li>Budget for Car</li>
+              </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 
 ## Learning Path
 ### Recommended learning resources
