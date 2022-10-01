@@ -145,7 +145,7 @@ Job Position (Description) | Roles and systematization
 <table>
   <thead>
     <tr>
-      <th>Menagirial Track</th>      
+      <th>Managerial Track</th>      
     </tr>
   </thead>
   <tbody>
