@@ -16,7 +16,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 <!--te-->
 ## Developer Seniority Levels 
 ### Roles
-Job Position | Roles and systematization
+Job Position
 <table>
   <thead>
     <tr>
