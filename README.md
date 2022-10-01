@@ -29,7 +29,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
         <tr>
             <td>Trainee</td>
             <td>Intern</td>
-            <td></td>          
+            <td>/</td>          
         </tr>
         <tr>
             <td>Junior Developer</td>
@@ -49,7 +49,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
         <tr>
             <td>Solution Architects | Technical Lead | Team Lead</td>
             <td>Principal Engineer | Engineering Lead | Engineering Manager</td>
-            <td></td>
+            <td>/</td>
         </tr>
         <tr>
             <th colspan="3">Managerial Track</th>          
@@ -57,17 +57,17 @@ Software development happens in your head. Not in an editor, IDE, or design tool
         <tr>
             <td>Head of Development</td>
             <td>Engineering Manager</td>
-            <td></td>
+            <td>/</td>
         </tr>
         <tr>
             <td>/</td>
             <td>Director of Engineering</td>
-            <td></td>
+            <td>/</td>
         </tr>
         <tr>
             <td>CTO</td>
             <td>CTO</td>
-            <td></td>
+            <td>/</td>
         </tr>
     </tbody>
 </table>
