@@ -106,14 +106,23 @@ Software development happens in your head. Not in an editor, IDE, or design tool
             <td>800-1300</td>
             <td>0</td>
             <td>0</td>
-            <td>/</td>
+            <td>
+               <ul>
+                  <li>Surprise moments</li>                 
+                 <li>Performance Bonus</li>                 
+              </ul>             
+            </td>          
         </tr>
         <tr>
             <th>Senior</th>
             <td>1300-2000</td>
             <td>0</td>
             <td>0</td>
-            <td>/</td>
+            <td>
+               <ul>
+                  <li>1 salary per year</li>                 
+              </ul>             
+            </td>          
         </tr>
         <tr>
             <th>Lead</th>
