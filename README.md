@@ -5,7 +5,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 <!--ts-->
    * [Developer Seniority Levels](#developer-seniority-levels)     
       * [Roles](#roles)
-      * [Competencies of developer seniority levels](#competencies-of-developer-seniority-levels)
+      * [Competencies](#competencies)
       * [Salary](#salary)
    * [Learning Path](#learning-path)  
       * [Recommended learning resources](#recommended-learning-resources)      
@@ -73,7 +73,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
     </tbody>
 </table>
 
-### Competencies of developer seniority levels
+### Competencies
 ### Salary
 
 <table>
@@ -82,7 +82,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
             <th>Seniority Level</th>
             <th>Company - 1</th>
             <th>Company - 2</th>
-            <th>Company - 3</th>
+            <th>2022</th>
             <th>Bonus</th>
         </tr>
     </thead>
@@ -91,21 +91,21 @@ Software development happens in your head. Not in an editor, IDE, or design tool
             <th>Intern</th>
             <td>0 - 500</td>
             <td>0 - 500</td>
-            <td>0</td>
+            <td>500</td>
             <td>/</td>
         </tr>
         <tr>
             <th>Junior</th>
             <td>500-800</td>
             <td>500-1000</td>
-            <td>0</td>
+            <td>700</td>
             <td>/</td>
         </tr>
         <tr>
             <th>Middle</th>
             <td>800-1300</td>
             <td>1000-1500</td>
-            <td>0</td>
+            <td>1000-1300</td>
             <td>
                <ul>
                   <li>Surprise moments</li>                 
@@ -117,7 +117,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
             <th>Senior</th>
             <td>1300-2000</td>
             <td>1500-2500</td>
-            <td>0</td>
+            <td>2000</td>
             <td>
                <ul>
                   <li>1 salary per year</li>                 
@@ -128,7 +128,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
             <th>Lead</th>
             <td>2000-3000</td>
             <td>1500-2300</td>
-            <td>0</td>
+            <td>2500-2800</td>
             <td>
               <ul>
                   <li>Stock Options (part of the company)</li>
