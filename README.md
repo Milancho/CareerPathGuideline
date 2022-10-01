@@ -117,47 +117,34 @@ Job Position (Description) | Roles and systematization
     <tr>
       <th>Technical Track - 1</th>
       <th>Technical Track - 2</th>
+      <th>Managerial Track</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Trainee</td>
       <td>Intern</td>
+      <td></td>
     </tr>
     <tr>
       <td>Junior Developer</td>
       <td>Software Engineer |</td>
+      <td>Engineering Manager</td>
     </tr>
     <tr>
       <td>Middle Developer</td>
       <td>Software Engineer ||</td>
+      <td>Director of Engineering</td>
     </tr>
     <tr>
       <td>Senior Developer</td>
       <td>Software Engineer |||</td>
+      <td>CTO</td>
     </tr>
     <tr>
       <td colspan="2">Technical Lead | Engineering Lead | Team Lead | Solution Architects | Principal Engineer | Engineering Manager</td>
+         <td></td>
     </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <th>Managerial Track</th>      
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Engineering Manager</td>      
-    </tr>
-    <tr>
-      <td>Director of Engineering</td>      
-    </tr>
-    <tr>
-      <td>CTO</td>      
-    </tr>    
   </tbody>
 </table>
 
