@@ -5,6 +5,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 <!--ts-->
    * [Developer Seniority Levels](#developer-seniority-levels)     
       * [Roles](#roles)
+      * [Competencies of developer seniority levels](#competencies-of-developer-seniority-levels)
    * [Learning Path](#learning-path)  
       * [Recommended learning resources](#recommended-learning-resources)      
       * [Programming Puzzles](#programming-puzzles)
@@ -17,41 +18,55 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 ## Developer Seniority Levels 
 ### Roles
 <table>
-  <thead>
-    <tr>
-      <th>Technical Track - 1</th>
-      <th>Technical Track - 2</th>
-      <th>Managerial Track</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Trainee</td>
-      <td>Intern</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Junior Developer</td>
-      <td>Software Engineer |</td>
-      <td>Engineering Manager | Head of Development</td>
-    </tr>
-    <tr>
-      <td>Middle Developer</td>
-      <td>Software Engineer ||</td>
-      <td>Director of Engineering</td>
-    </tr>
-    <tr>
-      <td>Senior Developer</td>
-      <td>Software Engineer |||</td>
-      <td>CTO</td>
-    </tr>
-    <tr>
-      <td>Solution Architects | Technical Lead     | Team Lead  </td>
-      <td>Principal Engineer  | Engineering Lead   | Engineering Manager </td>
-      <td></td>
-    </tr>
-  </tbody>
+    <thead>
+        <tr>
+            <th>Technical Track - 1</th>
+            <th>Technical Track - 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Trainee</td>
+            <td>Intern</td>
+        </tr>
+        <tr>
+            <td>Junior Developer</td>
+            <td>Software Engineer |</td>
+        </tr>
+        <tr>
+            <td>Middle Developer</td>
+            <td>Software Engineer ||</td>
+        </tr>
+        <tr>
+            <td>Senior Developer</td>
+            <td>Software Engineer |||</td>
+        </tr>
+        <tr>
+            <td>Solution Architects | Technical Lead | Team Lead</td>
+            <td>Principal Engineer | Engineering Lead | Engineering Manager</td>
+        </tr>
+        <tr>
+            <th colspan="3">Managerial Track</th>
+        </tr>
+        <tr>
+            <td>Head of Development</td>
+            <td>Engineering Manager</td>
+        </tr>
+        <tr>
+            <td>/</td>
+            <td>Director of Engineering</td>
+        </tr>
+        <tr>
+            <td>CTO</td>
+            <td>CTO</td>
+        </tr>
+    </tbody>
 </table>
+
+
+
+
+### Competencies of developer seniority levels
 
 ## Learning Path
 ### Recommended learning resources
