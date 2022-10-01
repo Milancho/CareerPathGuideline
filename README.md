@@ -90,21 +90,21 @@ Software development happens in your head. Not in an editor, IDE, or design tool
         <tr>
             <th>Intern</th>
             <td>0 - 500</td>
-            <td>0</td>
+            <td>0 - 500</td>
             <td>0</td>
             <td>/</td>
         </tr>
         <tr>
             <th>Junior</th>
             <td>500-800</td>
-            <td>0</td>
+            <td>500-1000</td>
             <td>0</td>
             <td>/</td>
         </tr>
         <tr>
             <th>Middle</th>
             <td>800-1300</td>
-            <td>0</td>
+            <td>1000-1500</td>
             <td>0</td>
             <td>
                <ul>
@@ -116,7 +116,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
         <tr>
             <th>Senior</th>
             <td>1300-2000</td>
-            <td>0</td>
+            <td>1500-2500</td>
             <td>0</td>
             <td>
                <ul>
@@ -127,12 +127,12 @@ Software development happens in your head. Not in an editor, IDE, or design tool
         <tr>
             <th>Lead</th>
             <td>2000-3000</td>
-            <td>0</td>
+            <td>1500-2300</td>
             <td>0</td>
             <td>
               <ul>
                   <li>Stock Options (part of the company)</li>
-                 <li>Profit-Sharing (bonuses depending on the company's profit)</li>
+                 <li>Profit-Sharing (% of salary and % of profit)</li>
                  <li>Budget for Car</li>
               </ul>
             </td>
