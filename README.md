@@ -111,7 +111,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 - https://www.algoexpert.io/
 ## Developer Seniority Levels 
 ### Roles
-Job Position (Description) | Roles and systematization
+Job Position | Roles and systematization
 <table>
   <thead>
     <tr>
@@ -129,7 +129,7 @@ Job Position (Description) | Roles and systematization
     <tr>
       <td>Junior Developer</td>
       <td>Software Engineer |</td>
-      <td>Engineering Manager</td>
+      <td>Engineering Manager | Head of Development</td>
     </tr>
     <tr>
       <td>Middle Developer</td>
