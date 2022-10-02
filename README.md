@@ -82,7 +82,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
             <th>Seniority Level</th>
             <th>Company - 1</th>
             <th>Company - 2</th>
-            <th>2022</th>
+            <th><a href="https://it.mk/mapiranje-na-it-industrijata-vo-mk-2022">2022</a></th>
             <th>Bonus</th>
         </tr>
     </thead>
