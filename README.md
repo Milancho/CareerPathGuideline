@@ -9,8 +9,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
       * [Salary](#salary)
    * [Learning Path](#learning-path)  
       * [Recommended learning resources](#recommended-learning-resources)      
-      * [Programming Puzzles](#programming-puzzles)
-      * [Additional resources](#additional-resources)      
+      * [Things every Web Developer should know](#things-every-web-developer-should-know)      
    * [Performance Competencies](#performance-competencies)
       * [Description and competency indicators](#description-and-competency-indicators)   
    * [Recommended content](#recommended-content)
@@ -159,6 +158,22 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 12. QA
 13. Security
 14. Kanban
+ 
+###  Things every Web Developer should know
+1. HTML/CSS/JS
+1. React||VueJs||Svelte||Angular
+1. Git/Github
+1. Browser DevTools
+1. REST API
+1. Authentication
+1. MVC
+1. SEO basics
+1. UI/UX basics
+1. master Google
+1. Problem Solving
+1. Tests
+1. Deployment
+1. DevOps basics
 
 ## Performance Competencies
 ### Description and competency indicators
