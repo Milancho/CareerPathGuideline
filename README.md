@@ -123,7 +123,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
               <li>Mentorship</li>
             </ul>
           </td>
-          <td></td>
+          <td>I AM IMPACTING OTHER TEAMS</td>
           <td>
             <ul>
               <li>Team's workflow coordination</li>
@@ -150,7 +150,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
               <li>Troubleshooting and debugging</li>
             </ul>
           </td>
-          <td></td>
+          <td>I AM SELF-SUFFICIENT AND IMPACT MY TEAM</td>
           <td>
             <ul>
               <li>Business knowledge (business domain)</li>
@@ -176,7 +176,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
               <li>Code-focused</li>
             </ul>
           </td>
-          <td></td>
+          <td>I AM BECOMING SELF-SUFFICIENT</td>
           <td>
             <ul>
               <li>Overlook the big picture</li>
@@ -201,7 +201,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
               <li>Theoretical knowledge of programming</li>
             </ul>
           </td>
-          <td></td>
+          <td>I NEED HELP</td>
           <td>
             <ul>
               <li>Little to no exposure to real development</li>
