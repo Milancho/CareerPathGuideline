@@ -279,7 +279,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 
 
 ## Learning Path
-### Recommended learning resources
+### [Recommended learning resources](https://github.com/Milancho/CareerPathGuideline/wiki/2.-Learning-Path)
 0. UML
 1. SQL Database programming   
 2. 55320: Programming with HTML, CSS, and JavaScript   
