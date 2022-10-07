@@ -47,8 +47,8 @@ Software development happens in your head. Not in an editor, IDE, or design tool
             <td>Proficient <BR> Expert</td>
         </tr>
         <tr>
-            <td>Solution Architects | Technical Lead | Team Lead</td>
-            <td>Principal Engineer | Engineering Lead | Engineering Manager</td>
+            <td><a href="https://www.linkedin.com/posts/milanmilanovic_softwareengineering-softwarearchitecture-activity-6984075569546047488--HRA?utm_source=share&utm_medium=member_desktop">Solution Architects</a> | Technical Lead | Team Lead</td>
+            <td>Principal Engineer | Engineering Lead | <a href="https://roadmap.sh/software-architect">Software Architect</a></td>
             <td>/</td>
         </tr>
         <tr>
