@@ -313,6 +313,12 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 1. DevOps basics
 
 ## Performance Competencies
+### Performance Ratings - Levels
+1. Marginal Contribution
+   - Does not demonstrate competency at the expected level, even with available assistance or directions from others.
+
+1. Needs Development
+
 ### Description and competency indicators
 
 ### Recommended content
