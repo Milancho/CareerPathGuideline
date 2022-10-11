@@ -77,10 +77,9 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 <table>
       <thead></thead>
       <tbody>
-      <tr>
-          <td></td>
-          <th>Trainee</th>
-          <td></td>
+      <tr>          
+          <th colspan="2">Trainee</th>
+          <td style="text-align:center">&#8595;&#8595;&#8595;</td>
         </tr>
         <tr>
           <td>
@@ -88,18 +87,16 @@ Software development happens in your head. Not in an editor, IDE, or design tool
               <li>No work experience</li>
               <li>Theoretical knowledge of programming</li>
             </ul>
-          </td>
-          <td>I NEED HELP</td>
+          </td>          
           <td>
             <ul>
               <li>Little to no exposure to real development</li>
             </ul>
           </td>
+          <td rowspan="2">I NEED HELP</td>
         </tr>
         <tr>
-          <td></td>
-          <th>Junior Developer</th>
-          <td></td>
+          <th colspan="2">Junior Developer</th>          
         </tr>
         <tr>
           <td>
@@ -110,8 +107,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
               <li>Need context-free rules</li>
               <li>Code-focused</li>
             </ul>
-          </td>
-          <td>I AM BECOMING SELF-SUFFICIENT</td>
+          </td>          
           <td>
             <ul>
               <li>Overlook the big picture</li>
@@ -123,11 +119,10 @@ Software development happens in your head. Not in an editor, IDE, or design tool
               <li>Able to work in a team</li>
             </ul>
           </td>
+          <td rowspan="2">I AM BECOMING SELF-SUFFICIENT</td>
         </tr>                       
-        <tr>
-          <td></td>
-          <th>Middle Developer</th>
-          <td></td>
+        <tr>          
+          <th colspan="2">Middle Developer</th>          
         </tr>
         <tr>
           <td>
@@ -139,8 +134,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
               <li>Mostly write routine code</li>
               <li>Troubleshooting and debugging</li>
             </ul>
-          </td>
-          <td>I AM SELF-SUFFICIENT AND IMPACT MY TEAM</td>
+          </td>          
           <td>
             <ul>
               <li>Business knowledge (business domain)</li>
@@ -150,11 +144,10 @@ Software development happens in your head. Not in an editor, IDE, or design tool
               <li>Mentorship for juniors</li>
             </ul>
           </td>
+          <td rowspan="2">I AM SELF-SUFFICIENT AND IMPACT MY TEAM</td>
         </tr>        
-        <tr>
-          <td></td>
-          <th>Senior Developer</th>
-          <td></td>
+        <tr>          
+          <th colspan="2">Senior Developer</th>          
         </tr>
         <tr>
           <td>
@@ -166,8 +159,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
               <li>Knowledge converted to intuition</li>
               <li>Mentorship</li>
             </ul>
-          </td>
-          <td>I AM IMPACTING OTHER TEAMS</td>
+          </td>          
           <td>
             <ul>
               <li>Team's workflow coordination</li>
@@ -177,14 +169,13 @@ Software development happens in your head. Not in an editor, IDE, or design tool
               <li>Good soft skills</li>
             </ul>
           </td>
+          <td rowspan="2">I AM IMPACTING OTHER TEAMS</td>
         </tr>        
-        <tr>
-          <td></td>
-          <th>Engineering Manager</th>
-          <td></td>
+        <tr>          
+          <th colspan="2">Engineering Manager</th>
         </tr>
         <tr>
-          <td colspan="3">
+          <td colspan="2">
             <ul>
               <li>
                 Little to do with programming and is all about people skills:
@@ -207,6 +198,8 @@ Software development happens in your head. Not in an editor, IDE, or design tool
               </li>
             </ul>
           </td>
+          <td>
+          </td>          
         </tr>        
       </tbody>
     </table>
