@@ -77,87 +77,22 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 <table>
       <thead></thead>
       <tbody>
-        <tr>
+      <tr>
           <td></td>
-          <th>Engineering Manager</th>
-          <td></td>
-        </tr>
-        <tr>
-          <td colspan="3">
-            <ul>
-              <li>
-                Little to do with programming and is all about people skills:
-                inspiring, motivating, leading
-              </li>
-              <li>10+ years of work experience</li>
-              <li>
-                Be a role model for less experienced engineers and coach them to
-                reach the next level of professional software development
-              </li>
-              <li>
-                Partner with sales team to develop innovative solutions that
-                meet business needs
-              </li>
-              <li>Performance Reviews and KPI's for all the employees</li>
-              <li>Recruitment of new colleagues</li>
-              <li>
-                Ask "Why?" and be prepared to be asked, "What do you think about
-                it?"
-              </li>
-            </ul>
-          </td>
-        </tr>
-        <tr>
-          <td></td>
-          <th>Senior Developer</th>
+          <th>Trainee</th>
           <td></td>
         </tr>
         <tr>
           <td>
             <ul>
-              <li>Problem-solver</li>
-              <li>5+ years of work experience</li>
-              <li>Able to self-correct</li>
-              <li>A broad range of experience</li>
-              <li>Knowledge converted to intuition</li>
-              <li>Mentorship</li>
+              <li>No work experience</li>
+              <li>Theoretical knowledge of programming</li>
             </ul>
           </td>
-          <td>I AM IMPACTING OTHER TEAMS</td>
+          <td>I NEED HELP</td>
           <td>
             <ul>
-              <li>Team's workflow coordination</li>
-              <li>Understands the business value behind the product</li>
-              <li>Foresee the issue and resolve it before it happens</li>
-              <li>Long-term vision in terms of the project</li>
-              <li>Good soft skills</li>
-            </ul>
-          </td>
-        </tr>
-        <tr>
-          <td></td>
-          <th>Middle Developer</th>
-          <td></td>
-        </tr>
-        <tr>
-          <td>
-            <ul>
-              <li>Workhorse of the programming world</li>
-              <li>Over 3 years of work experience</li>
-              <li>Focus on a piece of the puzzle</li>
-              <li>Little to no guidance</li>
-              <li>Mostly write routine code</li>
-              <li>Troubleshooting and debugging</li>
-            </ul>
-          </td>
-          <td>I AM SELF-SUFFICIENT AND IMPACT MY TEAM</td>
-          <td>
-            <ul>
-              <li>Business knowledge (business domain)</li>
-              <li>Actively collaborate with the team</li>
-              <li>Initiative and resourceful</li>
-              <li>Providing estimates on tasks</li>
-              <li>Mentorship for juniors</li>
+              <li>Little to no exposure to real development</li>
             </ul>
           </td>
         </tr>
@@ -188,26 +123,91 @@ Software development happens in your head. Not in an editor, IDE, or design tool
               <li>Able to work in a team</li>
             </ul>
           </td>
-        </tr>
+        </tr>                       
         <tr>
           <td></td>
-          <th>Trainee</th>
+          <th>Middle Developer</th>
           <td></td>
         </tr>
         <tr>
           <td>
             <ul>
-              <li>No work experience</li>
-              <li>Theoretical knowledge of programming</li>
+              <li>Workhorse of the programming world</li>
+              <li>Over 3 years of work experience</li>
+              <li>Focus on a piece of the puzzle</li>
+              <li>Little to no guidance</li>
+              <li>Mostly write routine code</li>
+              <li>Troubleshooting and debugging</li>
             </ul>
           </td>
-          <td>I NEED HELP</td>
+          <td>I AM SELF-SUFFICIENT AND IMPACT MY TEAM</td>
           <td>
             <ul>
-              <li>Little to no exposure to real development</li>
+              <li>Business knowledge (business domain)</li>
+              <li>Actively collaborate with the team</li>
+              <li>Initiative and resourceful</li>
+              <li>Providing estimates on tasks</li>
+              <li>Mentorship for juniors</li>
             </ul>
           </td>
+        </tr>        
+        <tr>
+          <td></td>
+          <th>Senior Developer</th>
+          <td></td>
         </tr>
+        <tr>
+          <td>
+            <ul>
+              <li>Problem-solver</li>
+              <li>5+ years of work experience</li>
+              <li>Able to self-correct</li>
+              <li>A broad range of experience</li>
+              <li>Knowledge converted to intuition</li>
+              <li>Mentorship</li>
+            </ul>
+          </td>
+          <td>I AM IMPACTING OTHER TEAMS</td>
+          <td>
+            <ul>
+              <li>Team's workflow coordination</li>
+              <li>Understands the business value behind the product</li>
+              <li>Foresee the issue and resolve it before it happens</li>
+              <li>Long-term vision in terms of the project</li>
+              <li>Good soft skills</li>
+            </ul>
+          </td>
+        </tr>        
+        <tr>
+          <td></td>
+          <th>Engineering Manager</th>
+          <td></td>
+        </tr>
+        <tr>
+          <td colspan="3">
+            <ul>
+              <li>
+                Little to do with programming and is all about people skills:
+                inspiring, motivating, leading
+              </li>
+              <li>10+ years of work experience</li>
+              <li>
+                Be a role model for less experienced engineers and coach them to
+                reach the next level of professional software development
+              </li>
+              <li>
+                Partner with sales team to develop innovative solutions that
+                meet business needs
+              </li>
+              <li>Performance Reviews and KPI's for all the employees</li>
+              <li>Recruitment of new colleagues</li>
+              <li>
+                Ask "Why?" and be prepared to be asked, "What do you think about
+                it?"
+              </li>
+            </ul>
+          </td>
+        </tr>        
       </tbody>
     </table>
     
