@@ -307,10 +307,39 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 
 ## Performance Competencies
 ### Performance Ratings - Levels
-1. Marginal Contribution
-   - Does not demonstrate competency at the expected level, even with available assistance or directions from others.
+1. Marginal Contribution   
+2. Needs Development
+3. Proficient
+4. Outstanding
 
-1. Needs Development
+### Competency 
+1. Knowledge and Expertise   
+   - Technical Knowledge
+   - Business Domain Knowledge
+2. Quality of work
+   - Results Delivery
+   - Independence
+   - Ownership
+3. Teamwork
+   - Relationships and Collaboration
+   - Participation and Contribution / Team Activities
+   - Team Norms
+   - Assistance and Support
+4. Communication 
+   - Expression and Clarity
+   - Mutual Understanding and Comprehension
+   - Reliability, Promptness, and Consistency
+5. Planning and Organizing
+   - Activity Planning
+   - Activity Prioritization
+6. Flexibility and Adaptability
+   - Openness and Adaptation to Change
+   - Coping under pressure
+5. Professionalism
+   - Policies and Instructions Compliance
+   - Cultural Fit
+   - Service Orientation and Commitment
+   - Confidentiality and Discretion
 
 ### Description and competency indicators
 
