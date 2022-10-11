@@ -10,7 +10,8 @@ Software development happens in your head. Not in an editor, IDE, or design tool
    * [Learning Path](#learning-path)  
       * [Recommended learning resources](#recommended-learning-resources)      
    * [Performance Competencies](#performance-competencies)
-      * [Description and competency indicators](#description-and-competency-indicators)   
+      * [Description and competency indicators](#description-and-competency-indicators)
+      * [Targets for yyyy](#targets-for-yyyy)
    * [Recommended content](#recommended-content)
    * [Under construction](#under-construction)  
 <!--te-->
@@ -295,7 +296,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 3. Proficient
 4. Outstanding
 
-### Competency 
+### Description and competency indicators
 1. Knowledge and Expertise   
    - Technical Knowledge
    - Business Domain Knowledge
@@ -324,12 +325,18 @@ Software development happens in your head. Not in an editor, IDE, or design tool
    - Service Orientation and Commitment
    - Confidentiality and Discretion
 
-### Description and competency indicators
+### Targets for yyyy
+1. Projects
+1. Modules
+1. Courses (Udemy, pluralsight, ...)
+1. Books
+1. Presentations
+1. Certifications
 
-### Recommended content
-   * [Pragmatic Thinking and Learning: Refactor Your Wetware](https://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050)   
+## Recommended content
+- [Pragmatic Thinking and Learning: Refactor Your Wetware](https://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050)   
 
-### Under construction
+## Under construction
 - Docs can be found on the project [wiki](https://github.com/Milancho/CareerPathGuideline/wiki) page
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/milanco)
