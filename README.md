@@ -335,7 +335,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 
 ## Recommended content
 - [Pragmatic Thinking and Learning: Refactor Your Wetware](https://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050)   
-
+- [Organizational Behavior](https://www.amazon.com/Organizational-Behavior-18th-Whats-Management/dp/0134729323)
 ## Under construction
 - Docs can be found on the project [wiki](https://github.com/Milancho/CareerPathGuideline/wiki) page
 
