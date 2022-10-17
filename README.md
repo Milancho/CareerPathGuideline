@@ -37,7 +37,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
             <td>Novice <BR> Advanced Beginner</td>          
         </tr>
         <tr>
-            <td>Middle Developer</td>
+            <td>Intermediate/Middle Developer</td>
             <td>Software Engineer ||</td>
             <td>Competent</td>          
         </tr>
