@@ -295,7 +295,8 @@ Software development happens in your head. Not in an editor, IDE, or design tool
             <td>2500-2800</td>
             <td>
               <ul>                                  
-                 <li>&sum;<sup>12</sup>(10..15)%*Salary</li>                  
+                 <li>&sum;<sup>12</sup>(10..15)%*Salary</li>
+                 <li>Profit-Sharing (% of salary and % of profit)</li>
                  <li>Budget for Car</li>
               </ul>
             </td>
@@ -308,10 +309,8 @@ Software development happens in your head. Not in an editor, IDE, or design tool
             <td>/</td>
             <td>
               <ul>
-                 <li>Stock Options (part of the company)</li>
-                 <li>Profit-Sharing (% of salary and % of profit)</li>
-                 <li>&sum;<sup>12</sup>(20..35)%*Salary</li>                  
-                 <li>Budget for Car</li>
+                 <li>Stock Options (part of the company)</li>                 
+                 <li>&sum;<sup>12</sup>(20..35)%*Salary</li>                                   
               </ul>
             </td>
         </tr>
