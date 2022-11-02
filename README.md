@@ -228,7 +228,11 @@ Software development happens in your head. Not in an editor, IDE, or design tool
             </th>
             <td>0 - 500</td>
             <td>0 - 500</td>
-            <td>700 (9m)</td>
+            <td>
+            <ul>
+               <li>L1: 700 (9m+)</li>               
+              </ul>                   
+            </td>
             <td>500</td>
             <td>/</td>
         </tr>
@@ -238,8 +242,8 @@ Software development happens in your head. Not in an editor, IDE, or design tool
             <td>500-1000</td>
             <td>            
               <ul>
-               <li>L1: 800 (1y +)</li>
-               <li>L2: 900 (2y +)</li>               
+               <li>L1: 800 (1y+)</li>
+               <li>L2: 900 (2y+)</li>               
               </ul>            
             </td>
             <td>700</td>
@@ -251,7 +255,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
             <td>1000-1500</td>
             <td>
                <ul>
-                 <li>1100 - 1800 (3y +)</li>               
+                 <li>1100 - 1800 (3y+)</li>               
               </ul>
             </td>
             <td>1000-1300</td>
@@ -268,7 +272,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
             <td>1500-2500</td>
             <td>
                <ul>
-                 <li>1800 - 2100 (5y +)</li>               
+                 <li>1800 - 2100 (5y+)</li>               
               </ul>
             </td>
             <td>2000</td>
@@ -285,7 +289,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
             <td>1500-2300</td>
             <td>
                <ul>
-                 <li>2100 - 3000 (8y +)</li>               
+                 <li>2100 - 3000 (8y+)</li>               
               </ul>
             </td>
             <td>2500-2800</td>
