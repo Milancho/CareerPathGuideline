@@ -37,7 +37,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
             <td>Novice <BR> Advanced Beginner</td>          
         </tr>
         <tr>
-            <td>Intermediate/Middle Developer</td>
+            <td>Intermediate/Mid Developer</td>
             <td>Software Engineer ||</td>
             <td>Competent</td>          
         </tr>
@@ -122,7 +122,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
           <td rowspan="2">I AM BECOMING SELF-SUFFICIENT</td>
         </tr>                       
         <tr>          
-          <th colspan="2">Middle Developer</th>          
+          <th colspan="2">Mid Developer</th>          
         </tr>
         <tr>
           <td>
@@ -212,15 +212,23 @@ Software development happens in your head. Not in an editor, IDE, or design tool
             <th>Seniority Level</th>
             <th>Company - 1</th>
             <th>Company - 2</th>
+            <th>Company - 3</th>
             <th><a href="https://it.mk/mapiranje-na-it-industrijata-vo-mk-2022">2022</a></th>
             <th>Bonus</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <th>Intern</th>
+            <th>
+              <ul>
+               <li>Intern</li>
+               <li>Graduate</li>
+               <li>Associate</li>
+             </ul>
+            </th>
             <td>0 - 500</td>
             <td>0 - 500</td>
+            <td>700 (9m)</td>
             <td>500</td>
             <td>/</td>
         </tr>
@@ -228,13 +236,24 @@ Software development happens in your head. Not in an editor, IDE, or design tool
             <th>Junior</th>
             <td>500-800</td>
             <td>500-1000</td>
+            <td>            
+              <ul>
+               <li>L1: 800 (1y +)</li>
+               <li>L2: 900 (2y +)</li>               
+              </ul>            
+            </td>
             <td>700</td>
             <td>/</td>
         </tr>
         <tr>
-            <th>Middle</th>
+            <th>Mid</th>
             <td>800-1300</td>
             <td>1000-1500</td>
+            <td>
+               <ul>
+                 <li>1100 - 1800 (3y +)</li>               
+              </ul>
+            </td>
             <td>1000-1300</td>
             <td>
                <ul>
@@ -247,10 +266,16 @@ Software development happens in your head. Not in an editor, IDE, or design tool
             <th>Senior</th>
             <td>1300-2000</td>
             <td>1500-2500</td>
+            <td>
+               <ul>
+                 <li>1800 - 2100 (5y +)</li>               
+              </ul>
+            </td>
             <td>2000</td>
             <td>
                <ul>
-                  <li>1 salary per year</li>                 
+                  <li>1 salary per year</li>                                   
+                  <li>&sum;<sup>12</sup>(5..10)%*Salary</li>                  
               </ul>             
             </td>          
         </tr>
@@ -258,11 +283,30 @@ Software development happens in your head. Not in an editor, IDE, or design tool
             <th>Lead</th>
             <td>2000-3000</td>
             <td>1500-2300</td>
+            <td>
+               <ul>
+                 <li>2100 - 3000 (8y +)</li>               
+              </ul>
+            </td>
             <td>2500-2800</td>
             <td>
+              <ul>                                  
+                 <li>&sum;<sup>12</sup>(10..15)%*Salary</li>                  
+                 <li>Budget for Car</li>
+              </ul>
+            </td>
+        </tr>
+                <tr>
+            <th>Head</th>
+            <td>/</td>
+            <td>/</td>
+            <td>/</td>
+            <td>/</td>
+            <td>
               <ul>
-                  <li>Stock Options (part of the company)</li>
+                 <li>Stock Options (part of the company)</li>
                  <li>Profit-Sharing (% of salary and % of profit)</li>
+                 <li>&sum;<sup>12</sup>(20..35)%*Salary</li>                  
                  <li>Budget for Car</li>
               </ul>
             </td>
