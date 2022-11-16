@@ -93,7 +93,11 @@ Software development happens in your head. Not in an editor, IDE, or design tool
               <li>Little to no exposure to real development</li>
             </ul>
           </td>
-          <td rowspan="2">I NEED HELP</td>
+          <td rowspan="2">          
+          <ul>
+              <li>I NEED HELP</li>              
+            </ul>
+          </td>
         </tr>
         <tr>
           <th colspan="2">Junior Developer</th>          
@@ -119,7 +123,13 @@ Software development happens in your head. Not in an editor, IDE, or design tool
               <li>Able to work in a team</li>
             </ul>
           </td>
-          <td rowspan="2">I AM BECOMING SELF-SUFFICIENT</td>
+          <td rowspan="2">
+            <ul>
+              <li>I AM BECOMING SELF-SUFFICIENT</li>
+              <li>Take this design, and implement it.</li>
+              <li>the problem is known, the solution is know : job is to execute</li>                                         
+            </ul>
+          </td>                 
         </tr>                       
         <tr>          
           <th colspan="2">Mid Developer</th>          
@@ -144,7 +154,13 @@ Software development happens in your head. Not in an editor, IDE, or design tool
               <li>Mentorship for juniors</li>
             </ul>
           </td>
-          <td rowspan="2">I AM SELF-SUFFICIENT AND IMPACT MY TEAM</td>
+          <td rowspan="2">                   
+             <ul>
+              <li>I AM SELF-SUFFICIENT AND IMPACT MY TEAM</li>
+              <li>Vague requirements? Design, and implement them.</li>
+              <li>problem is known: job is to define the solution and execute</li>              
+            </ul>
+          </td>                   
         </tr>        
         <tr>          
           <th colspan="2">Senior Developer</th>          
@@ -169,7 +185,13 @@ Software development happens in your head. Not in an editor, IDE, or design tool
               <li>Good soft skills</li>
             </ul>
           </td>
-          <td rowspan="2">I AM IMPACTING OTHER TEAMS</td>
+          <td rowspan="2">          
+          <ul>
+              <li>I AM IMPACTING OTHER TEAMS</li>
+              <li>A problem? Break it down, get it solved.</li>
+              <li>Problem space is known, job is to identify the problem, define the solution, and execute.</li>
+              <li><i>Principal engineer:</i> In your org, choose the most critical goal, and identify how to make progress.</li>                                                   </ul>
+          </td>           
         </tr>        
         <tr>          
           <th colspan="2">Engineering Manager</th>
