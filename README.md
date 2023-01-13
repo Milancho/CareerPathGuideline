@@ -358,7 +358,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 13. Security
 14. Kanban
  
-## Performance Competencies
+## [Performance Competencies](https://github.com/Milancho/CareerPathGuideline/wiki/5.-Performance-Competencies)
 ### Performance Ratings - Levels
 1. Marginal Contribution   
 2. Needs Development
