@@ -128,7 +128,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
          </td>
          <td>
             <ul>
-               <li>Task Level</li>
+               <li>Task-Level</li>
             </ul>
          </td>
          <td rowspan="2">
@@ -164,7 +164,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
          </td>
          <td>
             <ul>
-               <li>Project-level</li>
+               <li>Project-Level</li>
             </ul>
          </td>
          <td rowspan="2">
@@ -240,7 +240,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
          </td>
          <td>
             <ul>
-               <li>Organization-level (several areas)</li>
+               <li>Organization-Level (several areas)</li>
                <li>Company-level</li>
             </ul>
          </td>
