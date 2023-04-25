@@ -75,156 +75,183 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 
 ### Competencies
 <table>
-      <thead></thead>
-      <tbody>
-      <tr>          
-          <th colspan="2">Trainee</th>
-          <td style="text-align:center">&#8595;&#8595;&#8595;</td>
-        </tr>
-        <tr>
-          <td>
+   <thead></thead>
+   <tbody>
+      <tr>
+         <th colspan="2">Trainee</th>
+         <th>Scope</th>
+         <td style="text-align:center">&#8595;&#8595;&#8595;</td>
+      </tr>
+      <tr>
+         <td>
             <ul>
-              <li>No work experience</li>
-              <li>Theoretical knowledge of programming</li>
+               <li>No work experience</li>
+               <li>Theoretical knowledge of programming</li>
             </ul>
-          </td>          
-          <td>
+         </td>
+         <td>
             <ul>
-              <li>Little to no exposure to real development</li>
+               <li>Little to no exposure to real development</li>
             </ul>
-          </td>
-          <td rowspan="2">          
-          <ul>
-              <li>I NEED HELP</li>              
-            </ul>
-          </td>
-        </tr>
-        <tr>
-          <th colspan="2">Junior Developer</th>          
-        </tr>
-        <tr>
-          <td>
+         </td>
+         <td>          
+         </td>
+         <td rowspan="2">
             <ul>
-              <li>Through trial and error</li>
-              <li>1-3 years of work experience</li>
-              <li>Close supervision</li>
-              <li>Need context-free rules</li>
-              <li>Code-focused</li>
+               <li>I NEED HELP</li>
             </ul>
-          </td>          
-          <td>
+         </td>
+      </tr>
+      <tr>
+         <th colspan="2">Junior Developer</th>
+      </tr>
+      <tr>
+         <td>
             <ul>
-              <li>Overlook the big picture</li>
-              <li>
-                Do the least complex tasks without much impact on the final
-                product
-              </li>
-              <li>Motivated and energetic</li>
-              <li>Able to work in a team</li>
+               <li>Through trial and error</li>
+               <li>1-3 years of work experience</li>
+               <li>Close supervision</li>
+               <li>Need context-free rules</li>
+               <li>Code-focused</li>
             </ul>
-          </td>
-          <td rowspan="2">
+         </td>
+         <td>
             <ul>
-              <li>I AM BECOMING SELF-SUFFICIENT</li>
-              <li>Take this design, and implement it.</li>
-              <li>the problem is known, the solution is know : job is to execute</li>                                         
+               <li>Overlook the big picture</li>
+               <li>
+                  Do the least complex tasks without much impact on the final
+                  product
+               </li>
+               <li>Motivated and energetic</li>
+               <li>Able to work in a team</li>
             </ul>
-          </td>                 
-        </tr>                       
-        <tr>          
-          <th colspan="2">Mid Developer</th>          
-        </tr>
-        <tr>
-          <td>
+         </td>
+         <td>
             <ul>
-              <li>Workhorse of the programming world</li>
-              <li>Over 3 years of work experience</li>
-              <li>Focus on a piece of the puzzle</li>
-              <li>Little to no guidance</li>
-              <li>Mostly write routine code</li>
-              <li>Troubleshooting and debugging</li>
+               <li>Task Level</li>
             </ul>
-          </td>          
-          <td>
+         </td>
+         <td rowspan="2">
             <ul>
-              <li>Business knowledge (business domain)</li>
-              <li>Actively collaborate with the team</li>
-              <li>Initiative and resourceful</li>
-              <li>Providing estimates on tasks</li>
-              <li>Mentorship for juniors</li>
+               <li>I AM BECOMING SELF-SUFFICIENT</li>
+               <li>Take this design, and implement it.</li>
+               <li>the problem is known, the solution is know : job is to execute</li>
             </ul>
-          </td>
-          <td rowspan="2">                   
-             <ul>
-              <li>I AM SELF-SUFFICIENT AND IMPACT MY TEAM</li>
-              <li>Vague requirements? Design, and implement them.</li>
-              <li>problem is known: job is to define the solution and execute</li>              
-            </ul>
-          </td>                   
-        </tr>        
-        <tr>          
-          <th colspan="2">Senior Developer</th>          
-        </tr>
-        <tr>
-          <td>
+         </td>
+      </tr>
+      <tr>
+         <th colspan="2">Mid Developer</th>
+      </tr>
+      <tr>
+         <td>
             <ul>
-              <li>Problem-solver</li>
-              <li>5+ years of work experience</li>
-              <li>Able to self-correct</li>
-              <li>A broad range of experience</li>
-              <li>Knowledge converted to intuition</li>
-              <li>Mentorship</li>
+               <li>Workhorse of the programming world</li>
+               <li>Over 3 years of work experience</li>
+               <li>Focus on a piece of the puzzle</li>
+               <li>Little to no guidance</li>
+               <li>Mostly write routine code</li>
+               <li>Troubleshooting and debugging</li>
             </ul>
-          </td>          
-          <td>
+         </td>
+         <td>
             <ul>
-              <li>Team's workflow coordination</li>
-              <li>Understands the business value behind the product</li>
-              <li>Foresee the issue and resolve it before it happens</li>
-              <li>Long-term vision in terms of the project</li>
-              <li>Good soft skills</li>
+               <li>Business knowledge (business domain)</li>
+               <li>Actively collaborate with the team</li>
+               <li>Initiative and resourceful</li>
+               <li>Providing estimates on tasks</li>
+               <li>Mentorship for juniors</li>
             </ul>
-          </td>
-          <td rowspan="2">          
-          <ul>
-              <li>I AM IMPACTING OTHER TEAMS</li>
-              <li>A problem? Break it down, get it solved.</li>
-              <li>Problem space is known, job is to identify the problem, define the solution, and execute.</li>
-              <li><i>Principal engineer:</i> In your org, choose the most critical goal, and identify how to make progress.</li>                                                   </ul>
-          </td>           
-        </tr>        
-        <tr>          
-          <th colspan="2">Engineering Manager</th>
-        </tr>
-        <tr>
-          <td colspan="2">
+         </td>
+         <td>
             <ul>
-              <li>
-                Little to do with programming and is all about people skills:
-                inspiring, motivating, leading
-              </li>
-              <li>10+ years of work experience</li>
-              <li>
-                Be a role model for less experienced engineers and coach them to
-                reach the next level of professional software development
-              </li>
-              <li>
-                Partner with sales team to develop innovative solutions that
-                meet business needs
-              </li>
-              <li>Performance Reviews and KPI's for all the employees</li>
-              <li>Recruitment of new colleagues</li>
-              <li>
-                Ask "Why?" and be prepared to be asked, "What do you think about
-                it?"
-              </li>
+               <li>Project-level</li>
             </ul>
-          </td>
-          <td>
-          </td>          
-        </tr>        
-      </tbody>
-    </table>
+         </td>
+         <td rowspan="2">
+            <ul>
+               <li>I AM SELF-SUFFICIENT AND IMPACT MY TEAM</li>
+               <li>Vague requirements? Design, and implement them.</li>
+               <li>problem is known: job is to define the solution and execute</li>
+            </ul>
+         </td>
+      </tr>
+      <tr>
+         <th colspan="2">Senior Developer</th>
+      </tr>
+      <tr>
+         <td>
+            <ul>
+               <li>Problem-solver</li>
+               <li>5+ years of work experience</li>
+               <li>Able to self-correct</li>
+               <li>A broad range of experience</li>
+               <li>Knowledge converted to intuition</li>
+               <li>Mentorship</li>
+            </ul>
+         </td>
+         <td>
+            <ul>
+               <li>Team's workflow coordination</li>
+               <li>Understands the business value behind the product</li>
+               <li>Foresee the issue and resolve it before it happens</li>
+               <li>Long-term vision in terms of the project</li>
+               <li>Good soft skills</li>
+            </ul>
+         </td>
+         <td>
+            <ul>
+               <li>Team-Level</li>
+               <li>Group-Level (several teams)</li>
+            </ul>
+         </td>
+         <td rowspan="2">
+            <ul>
+            <li>I AM IMPACTING OTHER TEAMS</li>
+            <li>A problem? Break it down, get it solved.</li>
+            <li>Problem space is known, job is to identify the problem, define the solution, and execute.</li>
+         </td>
+      </tr>
+      <tr>
+         <th colspan="2">Engineering Manager</th>
+      </tr>
+      <tr>
+         <td colspan="2">
+            <ul>
+               <li>
+                  Little to do with programming and is all about people skills:
+                  inspiring, motivating, leading
+               </li>
+               <li>10+ years of work experience</li>
+               <li>
+                  Be a role model for less experienced engineers and coach them to
+                  reach the next level of professional software development
+               </li>
+               <li>
+                  Partner with sales team to develop innovative solutions that
+                  meet business needs
+               </li>
+               <li>Performance Reviews and KPI's for all the employees</li>
+               <li>Recruitment of new colleagues</li>
+               <li>
+                  Ask "Why?" and be prepared to be asked, "What do you think about
+                  it?"
+               </li>
+            </ul>
+         </td>
+         <td>
+            <ul>
+               <li>Organization-level (several areas)</li>
+               <li>Company-level</li>
+            </ul>
+         </td>
+         <td rowspan="2">
+            <ul>
+               <li><i>Principal engineer:</i> In your org, choose the most critical goal, and identify how to make progress.</li>
+            </ul>
+         </td>
+      </tr>
+   </tbody>
+</table>
     
 ### Salary
 
