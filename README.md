@@ -187,6 +187,8 @@ Software development happens in your head. Not in an editor, IDE, or design tool
                <li>A broad range of experience</li>
                <li>Knowledge converted to intuition</li>
                <li>Mentorship</li>
+               <li>Communication skills</li>
+               <li>Understanding trade-offs</li>               
             </ul>
          </td>
          <td>
@@ -196,6 +198,9 @@ Software development happens in your head. Not in an editor, IDE, or design tool
                <li>Foresee the issue and resolve it before it happens</li>
                <li>Long-term vision in terms of the project</li>
                <li>Good soft skills</li>
+               <li>Willingness to help juniors</li>
+               <li>Know how to simplify problems</li>
+               <li>Understanding of software architecture</li>               
             </ul>
          </td>
          <td>
