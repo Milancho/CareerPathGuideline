@@ -113,6 +113,8 @@ Software development happens in your head. Not in an editor, IDE, or design tool
                <li>Close supervision</li>
                <li>Need context-free rules</li>
                <li>Code-focused</li>
+               <li>Learn as much as possible</li>
+               <li>Explore every part of the solution</li>              
             </ul>
          </td>
          <td>
@@ -124,6 +126,8 @@ Software development happens in your head. Not in an editor, IDE, or design tool
                </li>
                <li>Motivated and energetic</li>
                <li>Able to work in a team</li>
+               <li>Listen and absorb all information from others</li>
+               <li>Constantly ask for feedback and advice on how to grow</li>              
             </ul>
          </td>
          <td>
@@ -151,6 +155,8 @@ Software development happens in your head. Not in an editor, IDE, or design tool
                <li>Little to no guidance</li>
                <li>Mostly write routine code</li>
                <li>Troubleshooting and debugging</li>
+               <li>Take on as much work as possible</li>
+               <li>Focus on going deep in one or two areas</li>              
             </ul>
          </td>
          <td>
@@ -160,6 +166,9 @@ Software development happens in your head. Not in an editor, IDE, or design tool
                <li>Initiative and resourceful</li>
                <li>Providing estimates on tasks</li>
                <li>Mentorship for juniors</li>
+               <li>Become known as "The {insert area here} Person"</li>
+               <li>Make mistakes, understand what went wrong, learn from it</li>
+               <li>Get sh*'t done</li>               
             </ul>
          </td>
          <td>
@@ -187,6 +196,8 @@ Software development happens in your head. Not in an editor, IDE, or design tool
                <li>A broad range of experience</li>
                <li>Knowledge converted to intuition</li>
                <li>Mentorship</li>
+               <li>Become a great leader</li>
+               <li>Know how to work with clients</li>              
             </ul>
          </td>
          <td>
@@ -196,6 +207,9 @@ Software development happens in your head. Not in an editor, IDE, or design tool
                <li>Foresee the issue and resolve it before it happens</li>
                <li>Long-term vision in terms of the project</li>
                <li>Good soft skills</li>
+               <li>Focus on providing value, not output</li>
+               <li>Understand every aspect of the solution</li>
+               <li>Know how to get the most out of your team</li>              
             </ul>
          </td>
          <td>
