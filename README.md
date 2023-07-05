@@ -155,6 +155,8 @@ Software development happens in your head. Not in an editor, IDE, or design tool
                <li>Little to no guidance</li>
                <li>Mostly write routine code</li>
                <li>Troubleshooting and debugging</li>
+              <li>Take on as much work as possible</li>
+              <li>Focus on going deep in one or two areas</li>              
             </ul>
          </td>
          <td>
@@ -164,6 +166,8 @@ Software development happens in your head. Not in an editor, IDE, or design tool
                <li>Initiative and resourceful</li>
                <li>Providing estimates on tasks</li>
                <li>Mentorship for juniors</li>
+               <li>Make mistakes, understand what went wrong, learn from it</li>
+               <li>Get sh*'t done</li>
             </ul>
          </td>
          <td>
