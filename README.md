@@ -113,6 +113,8 @@ Software development happens in your head. Not in an editor, IDE, or design tool
                <li>Close supervision</li>
                <li>Need context-free rules</li>
                <li>Code-focused</li>
+              <li>Learn as much as possible</li>
+              <li>Explore every part of the solution</li>              
             </ul>
          </td>
          <td>
@@ -124,6 +126,8 @@ Software development happens in your head. Not in an editor, IDE, or design tool
                </li>
                <li>Motivated and energetic</li>
                <li>Able to work in a team</li>
+              <li>Listen and absorb all information from others</li>
+              <li>Constantly ask for feedback and advice on how to grow</li>
             </ul>
          </td>
          <td>
