@@ -222,6 +222,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
             <li>I AM IMPACTING OTHER TEAMS</li>
             <li>A problem? Break it down, get it solved.</li>
             <li>Problem space is known, job is to identify the problem, define the solution, and execute.</li>
+            <li><i>Principal engineer:</i> In your org, choose the most critical goal, and identify how to make progress.</li>
          </td>
       </tr>
       <tr>
