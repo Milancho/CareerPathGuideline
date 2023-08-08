@@ -79,7 +79,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
    <tbody>
       <tr>
          <th colspan="2">Trainee</th>
-         <th>Scope</th>
+         <th>Scope / <i>Responsibilities</i></th>
          <td style="text-align:center">&#8595;&#8595;&#8595;</td>
       </tr>
       <tr>
@@ -94,7 +94,10 @@ Software development happens in your head. Not in an editor, IDE, or design tool
                <li>Little to no exposure to real development</li>
             </ul>
          </td>
-         <td>          
+         <td>  
+            <ul>               
+               <li><i>Follow</i></li>
+            </ul>
          </td>
          <td rowspan="2">
             <ul>
@@ -132,7 +135,8 @@ Software development happens in your head. Not in an editor, IDE, or design tool
          </td>
          <td>
             <ul>
-               <li>Task-Level</li>
+               <li>Task-Level</li>               
+               <li><i>Assist</i></li>
             </ul>
          </td>
          <td rowspan="2">
@@ -173,6 +177,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
          <td>
             <ul>
                <li>Project-Level</li>
+              <li><i>Apply</i></li>
             </ul>
          </td>
          <td rowspan="2">
@@ -214,7 +219,9 @@ Software development happens in your head. Not in an editor, IDE, or design tool
          <td>
             <ul>
                <li>Team-Level</li>
+               <li><i>Enable</i></li>
                <li>Group-Level (several teams)</li>
+               <li><i>Ensure & Advice</i></li>              
             </ul>
          </td>
          <td rowspan="2">
@@ -255,7 +262,9 @@ Software development happens in your head. Not in an editor, IDE, or design tool
          <td>
             <ul>
                <li>Organization-Level (several areas)</li>
+              <li><i>Initiate & Influence</i></li>              
                <li>Company-level</li>
+              <li><i>Set Strategy, Inspire & Mobilize</i></li>                            
             </ul>
          </td>
          <td rowspan="2">
