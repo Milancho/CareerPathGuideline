@@ -260,7 +260,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
          </td>
          <td rowspan="2">
             <ul>
-               <li><i>Principal engineer:</i> In your org, choose the most critical goal, and identify how to make progress.</li>
+               <li></li>
             </ul>
          </td>
       </tr>
