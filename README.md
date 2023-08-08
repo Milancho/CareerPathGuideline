@@ -61,12 +61,12 @@ Software development happens in your head. Not in an editor, IDE, or design tool
             <td>/</td>
         </tr>
         <tr>
-            <td>/</td>
+            <td>Middle Managemen</td>
             <td>Director of Engineering</td>
             <td>/</td>
         </tr>
         <tr>
-            <td>CTO</td>
+            <td>Upper Management, C-Level</td>
             <td>CTO</td>
             <td>/</td>
         </tr>
