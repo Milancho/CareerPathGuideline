@@ -73,6 +73,17 @@ Software development happens in your head. Not in an editor, IDE, or design tool
     </tbody>
 </table>
 
+### Axes
+#### Project Impact | Scope
+- Results directly driven from the project, which include key business metric improvements, new use cases, functionalities enabled, etc.
+#### Engineering Excellence | Technical Impacts
+- The technical contribution towards building high-quality products and services, helping teams work effectively, and delivering production excellence.
+#### People | Teamwork
+- Mentorship, collaboration, conflict resolution, recruiting, and internal community building.
+#### Direction 
+- Vision, roadmap, goals, project management, and initiative.
+
+
 ### Competencies
 <table>
    <thead></thead>
