@@ -82,7 +82,10 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 - Mentorship, collaboration, conflict resolution, recruiting, and internal community building.
 #### Direction 
 - Vision, roadmap, goals, project management, and initiative.
-
+#### Areas of growth
+- Specific strengths you want to leverage
+- Areas where you can improve
+- New experiences you'd like to gain
 
 ### Competencies
 <table>
