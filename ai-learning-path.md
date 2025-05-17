@@ -21,6 +21,7 @@ Software development happens in your head. Not in an editor, IDE, or design tool
 
 ## General
 1. [How We Built a Creditworthiness Assessment Agent in SnapLogic That’s Transforming Loan Decisions](https://iwconnect.com/how-we-built-a-creditworthiness-assessment-agent-in-snaplogic-thats-transforming-loan-decisions/)
+2. [Transforming Loan Process Automation for a Leading Southeast European Bank](https://iwconnect.com/casestudies/loan-process-automation/)
    
 ## Goals
 1. AI and Chatbot Integration
